@@ -4,13 +4,22 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, a consultant, blogger, machine learning engineer, and a big fan of [ Guido van Rossum](https://gvanrossum.github.io/). I hold a Bachelor of Computer Engineering from  
+[Universitas Indonesia](naiborhujosua@alumni.ui.ac.id).
+  
+With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. 
+My areas of expertise include statistical learning, predictive modeling, Large Language Models, and interpretable machine learning. 
+Subscribe to Indonesian Engineer’s Newsletter where I share content about designing machine learning and deep learning systems from a software engineering perspective
+  
+On top of that, I enjoy spending my leisure time reading books. I am participating in the 2024 Challenges to read over 100 books on topics such as machine learning, content creation, writing, and solopreneurship.
 
-What else do you need?
+Note: I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning-based solutions that further streamline business processes and workflows can  [schedule my time](https://calendly.com/naiborhujosua/60min).
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+  
+### How To Reach out
+To get in touch with me, you can send an e-mail to  [naiborhujosua@alumni.ui.ac.id](naiborhujosua@alumni.ui.ac.id). I also use Telegram, feel free to ask me for my number if that's your favorite communication method.
+
+I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle ❤️
+
