@@ -18,7 +18,6 @@ Note: I am not seeking employment opportunities. Any organization or company tha
 
   
 ### How To Reach out
-To get in touch with me, you can send an e-mail to  [naiborhujosua@alumni.ui.ac.id](naiborhujosua@alumni.ui.ac.id). I also use Telegram, feel free to ask me for my number if that's your favorite communication method.
-
+To get in touch with me, you can send an e-mail to [naiborhujosua@alumni.ui.ac.id](naiborhujosua@alumni.ui.ac.id). I also use Telegram, feel free to ask me for my number if that's your favorite communication method.
 I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle ❤️.
 
