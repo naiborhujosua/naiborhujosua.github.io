@@ -21,10 +21,10 @@ author: Josua Naiborhu
 
 navbar-links:
   About Me: "aboutme"
-  # Resources:
+  Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
-  # Author's home: "https://deanattali.com"
+    Recent Read: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -138,9 +138,11 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+#navbar-col: "#EAEAEA"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+#navbar-border-col: "#DDDDDD"
+navbar-border-col: "#2A93D5"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
