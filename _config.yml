@@ -21,10 +21,10 @@ author: Josua Naiborhu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #Resources:
+    #-  Book an appointment: "https://calendly.com/naiborhujosua/60min?month=2024-03"
    # - Learn markdown: "https://www.markdowntutorial.com/"
-    Book an appointment: "https://calendly.com/naiborhujosua/60min?month=2024-03"
+  Book an appointment: "https://calendly.com/naiborhujosua/60min?month=2024-03"
 
 ################
 # --- Logo --- #
