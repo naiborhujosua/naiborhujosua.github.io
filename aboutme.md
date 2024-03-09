@@ -9,7 +9,7 @@ Hello, and welcome to one of my homes on the web👋! I’m Josua Naiborhu, a co
   
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. 
 My areas of expertise include statistical learning, predictive modeling, Large Language Models, and interpretable machine learning. 
-Subscribe to Indonesian Engineer’s Newsletter where I share content about designing machine learning and deep learning systems from a software engineering perspective.
+I share content about designing machine learning and deep learning systems from a software engineering perspective.
   
 On top of that, I enjoy spending my leisure time reading books and running. I have taken part in Jakarta Marathon 2015 and Osaka Marathon 2020. I am participating in the 2024 Challenges to read over 100 books on topics such as machine learning, content creation, writing, and solopreneurship.
 
