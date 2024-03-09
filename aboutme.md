@@ -5,7 +5,7 @@ subtitle: Writing about Machine Learning and Deep Learning content
 ---
 
 
-Hello, and welcome to one of my homes on the web👋! I’m Josua Naiborhu, a consultant, blogger, and machine learning engineer from :indonesia:. I am a big fan of [ Guido van Rossum](https://gvanrossum.github.io/). 
+Hello, and welcome to one of my homes on the web👋! I’m Josua Naiborhu, a consultant, blogger, machine learning engineer, and a big fan of [ Guido van Rossum](https://gvanrossum.github.io/). 
 I hold a Bachelor of Computer Engineering from [Universitas Indonesia](naiborhujosua@alumni.ui.ac.id).
   
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. 
