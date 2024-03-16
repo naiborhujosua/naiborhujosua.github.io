@@ -1,4 +1,4 @@
-## JosLAB.Online
+## JosLabs.Online
 
 This webiste was started with a fork from https://github.com/daattali/beautiful-jekyll#readme.
 
