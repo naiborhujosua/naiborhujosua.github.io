@@ -5,14 +5,14 @@ subtitle: Writing about Machine Learning and Deep Learning content
 ---
 
 
-Hello, and welcome to one of my homes on the web👋! I’m Josua Naiborhu, a consultant, blogger, machine learning engineer, and a big fan of [ Guido van Rossum](https://gvanrossum.github.io/). 
+Hello👋, and welcome to one of my homes on the web! I’m Josua Naiborhu, a consultant, blogger, machine learning engineer, and a big fan of [ Guido van Rossum](https://gvanrossum.github.io/). 
 I hold a Bachelor of Computer Engineering from [Universitas Indonesia](https://www.ui.ac.id/).
   
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. 
 My areas of expertise include statistical learning, predictive modeling, Large Language Models, and interpretable machine learning. 
 I share content about designing machine learning and deep learning systems from a software engineering perspective.
   
-On top of that, I enjoy spending my leisure time reading books and running. I have taken part in Jakarta Marathon 2015 and Osaka Marathon 2020. I am participating in the 2024 Challenges to read [over 50 books](https://www.goodreads.com/naiborhujosua) on topics such as machine learning, deep learning, content creation, writing, and solopreneurship.
+On top of that, I enjoy spending my leisure time reading books and running. I have taken part in Jakarta Marathon 2015 and Osaka Marathon 2019. I am participating in the 2024 Challenges to read [over 50 books](https://www.goodreads.com/naiborhujosua) on topics such as machine learning, deep learning, content creation, writing, and solopreneurship.
 
 Note: I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning-based solutions that further streamline business processes and workflows can  [schedule my time](https://calendly.com/naiborhujosua/60min).
 
