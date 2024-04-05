@@ -3,7 +3,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 
 
 {: .box-note}
-**Technical Reads **
+**Note:**  Technical Reads
 
 - <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
 - <p> Serious Python: Black-Belt Advice on Deployment, Scalability, Testing by  <b> <bold>Julien Danjou  </bold></b> on <a href="https://www.amazon.com/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5"> Amazon </a></p>
@@ -65,7 +65,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <br><br>
 
 {: .box-note}
-**Soft skills **
+**Note:**  Soft skills
 
 - <p> Soft Skills: The Software Developer's Life Manual by <b> <bold>John Sonmez</bold></b> on <a href="https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B09BP6JWTQ/ref=sr_1_1?crid=3OWPYYSJ2UUT2&keywords=software+skills&qid=1690775965&s=books&sprefix=softwareb%2Cstripbooks-intl-ship%2C4702&sr=1-1"> Amazon </a></p>
 - <p> Power And Prediction: The Disruptive Economics of Artificial Intelligence by <b> <bold>Ajay Agrawal</bold> </b> on <a href="https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192"> Amazon </a></p>
@@ -96,7 +96,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <br><br>
 
 {: .box-note}
-**Content Creation **
+**Note:** Content Creation
 
 - <p> Successful Self-Publishing: How to self-publish and market your book in ebook and print by <b><bold> Joanna Penn</bold> </b> on <a href="https://www.amazon.com/Successful-Self-Publishing-self-publish-market-Writers/dp/1912105853"> Amazon </a></p>
 - <p> The One Hour Content Plan: The Solopreneur’s Guide to a Year’s Worth of Blog Post Ideas in 60 Minutes and Creating Content That Hooks and Sells by <b><bold>  Meera Kothand </bold> </b> on <a href="https://www.amazon.com/One-Hour-Content-Plan-Solopreneurs-ebook/dp/B074T5ZHP7"> Amazon </a></p>
@@ -127,9 +127,8 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 - <p> Gamification for Product Excellence: Make your product stand out with higher user engagement, retention, and innovation by <b> <bold> Mike Hyzy   </bold></b> on <a href="https://www.amazon.com/Gamification-Product-Excellence-engagement-innovation/dp/1837638381/ref=sr_1_1?crid=B63M3L5MNVNI&dib=eyJ2IjoiMSJ9.z3QVII5BRsb0hilYmw4Kb44n1nIJlYykNpElbYGuKS1vPFlz3MgNtUZJyNtGWUzTB0P4AnJmGk7nn_Cc9u2jR28Rgu38fQl1PrQ7ZyIsn0WG-Ap6NWQM9GdJUzI_9EiB3TtpZvTGd20B0ly1ViFLNpxkA5zCZnulYhvmsHcUDu8D1wUoMDlmr4jo4FChYCB0CgI8813gkB4e0pMBnCFMWwJm_k3gGAcmsnmmA6xjZWo.MRUr2Q5NxehFENXHuHcIwTwA4bR6WWATWZsiP2MAJBg&dib_tag=se&keywords=gamification+for+product&qid=1709720601&s=books&sprefix=gamification+for%2Cstripbooks-intl-ship%2C581&sr=1-1"> Amazon </a></p>
  
   
-<br><br>
 {: .box-note}
-**Code quality**
+**Note:** Code quality
 
 - <p> Refactoring at Scale: Regaining Control of Your Codebase 1st Edition by <b><bold>   Maude Lemaire  </bold> </b> on <a href="https://www.amazon.com/Refactoring-Scale-Regaining-Control-Codebase/dp/1492075531"> Amazon </a></p>
 - <p> Refactoring: Improving the Design of Existing Code by <b><bold> Martin Fowler </bold> </b> on <a href="https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672"> Amazon </a></p>
@@ -142,9 +141,10 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 
 
 <br><br>
-# 
+
 {: .box-note}
-**Project Management on AI**
+**Note:**Project Management on AI
+
 <p> Thinking in Systems by <b> <bold> Donella H. Meadows </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Amazon </a></p>
 <p> The AI Product Manager's Handbook: Develop a product that takes advantage of machine learning to solve AI problems by <b><bold>Irene Bratsis</bold> </b> on <a href="https://www.amazon.com/AI-Product-Managers-Handbook-advantage/dp/1804612936"> Amazon </a></p>
 <p> Managing Machine Learning Projects: From design to deployment by <b><bold>Simon Thompson</bold> </b> on <a href="https://www.amazon.com/Managing-Machine-Learning-Projects-deployment-ebook/dp/B0C74T6SMY/ref=sr_1_5?crid=3B8DG0I94IRTO&keywords=devops+machine+learning&qid=1689091299&s=books&sprefix=devops+machine+lear%2Cstripbooks-intl-ship%2C746&sr=1-5"> Amazon </a></p>
@@ -152,16 +152,18 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <p> Et al.: Because not all research deserves a Nobel Prize by <b> <bold>B McGraw </bold></b> on <a href="https://www.amazon.com/al-Because-research-deserves-Nobel/dp/183763257X"> Amazon </a></p>
 
   
-<br><br>
 {: .box-note}
-**Data Visualization**
-
+**Note:** Data Visualization*
 <p> Streamlit for Data Science - 2nd Edition  by <b> <bold> Tyler Richards </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Packt </a></p>
 
 
 <br><br>
 {: .box-note}
 **Language**
+
+  
+{: .box-note}
+**Note:** Language
 
 <p> The English Grammar Workbook for Adults: A Self-Study Guide to Improve Functional Writing by <b> <bold> Donella H. Meadows </bold></b> on <a href="https://www.amazon.com/English-Grammar-Workbook-Adults-Self-Study/dp/1646113195/ref=pd_bxgy_img_sccl_1/139-3599125-0496544?pd_rd_w=0j2LM&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=GZSAP3EVN0B0XE4SF483&pd_rd_wg=r47hU&pd_rd_r=c87187b3-2f82-4353-92d2-3d12ec17d142&pd_rd_i=1646113195&psc=1"> Amazon </a></p>
 <p> The Vocabulary Builder Workbook: Simple Lessons and Activities to Teach Yourself Over 1,400 Must-Know Words  by <b> <bold> Chris Lele</bold></b> on <a href="https://www.amazon.com/Vocabulary-Builder-Workbook-Activities-Must-Know/dp/193975481X/ref=pd_bxgy_img_sccl_1/139-3599125-0496544?pd_rd_w=EY59s&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=GQ61QGWNPKNNCBW30R1Y&pd_rd_wg=f5uR0&pd_rd_r=c7693e0b-0b3f-426e-9e36-10aa6a53f259&pd_rd_i=193975481X&psc=1"> Amazon </a></p>
