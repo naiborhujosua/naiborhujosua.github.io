@@ -1,5 +1,6 @@
 ## Book Collections
-  
+
+# Technical Reads 
 <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
 <p> Serious Python: Black-Belt Advice on Deployment, Scalability, Testing by  <b> <bold>Julien Danjou  </bold></b> on <a href="https://www.amazon.com/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5"> Amazon </a></p>
 <p> Applied Regression Analysis (Wiley Series in Probability and Statistics) Third Edition by  Norman Draper <b> <bold>Julien Danjou </bold></b> on <a href="https://www.amazon.com/Applied-Regression-Analysis-Probability-Statistics/dp/0471170828"> Amazon </a></p>
@@ -63,7 +64,7 @@
 
   
 <br><br>
-<h3 style="color:black";><bold>Soft skills </bold></h3>
+# Soft skills 
 <p> Soft Skills: The Software Developer's Life Manual by <b> <bold>John Sonmez</bold></b> on <a href="https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B09BP6JWTQ/ref=sr_1_1?crid=3OWPYYSJ2UUT2&keywords=software+skills&qid=1690775965&s=books&sprefix=softwareb%2Cstripbooks-intl-ship%2C4702&sr=1-1"> Amazon </a></p>
 <p> Power And Prediction: The Disruptive Economics of Artificial Intelligence by <b> <bold>Ajay Agrawal</bold> </b> on <a href="https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192"> Amazon </a></p>
 <p> The Kremlin School of Negotiation <b> <bold>Igor Ryzov </bold></b> on <a href="https://www.amazon.com/Kremlin-School-Negotiation-Igor-Ryzov/dp/1786896079"> Amazon</a></p>
@@ -91,7 +92,7 @@
  
   
 <br><br>
-<h3 style="color:black";><bold>Content Creation </bold></h3>
+# Content Creation
 <p> Successful Self-Publishing: How to self-publish and market your book in ebook and print by <b><bold> Joanna Penn</bold> </b> on <a href="https://www.amazon.com/Successful-Self-Publishing-self-publish-market-Writers/dp/1912105853"> Amazon </a></p>
 <p> The One Hour Content Plan: The Solopreneur’s Guide to a Year’s Worth of Blog Post Ideas in 60 Minutes and Creating Content That Hooks and Sells by <b><bold>  Meera Kothand </bold> </b> on <a href="https://www.amazon.com/One-Hour-Content-Plan-Solopreneurs-ebook/dp/B074T5ZHP7"> Amazon </a></p>
 <p> The Minimalist Entrepreneur: How Great Founders Do More with Less by <b><bold> Sahil Lavingia </bold> </b> on <a href="https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/B08VPZX8GF/ref=sr_1_1?crid=3O2AK2GVSF2HS&keywords=minimalist+entrepreneur&qid=1687494285&s=books&sprefix=m%2Cstripbooks-intl-ship%2C3682&sr=1-1"> Amazon </a></p>
@@ -122,7 +123,7 @@
  
   
 <br><br>
-<h3 style="color:black";> <bold>Code quality</bold></h3>
+# Code quality
 <p> Refactoring at Scale: Regaining Control of Your Codebase 1st Edition by <b><bold>   Maude Lemaire  </bold> </b> on <a href="https://www.amazon.com/Refactoring-Scale-Regaining-Control-Codebase/dp/1492075531"> Amazon </a></p>
 <p> Refactoring: Improving the Design of Existing Code by <b><bold> Martin Fowler </bold> </b> on <a href="https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672"> Amazon </a></p>
 <p> Modern Python Cookbook: 133 recipes to develop flawless and expressive programs in Python 3.8by <b><bold> Steven F. Lott </bold> </b> on <a href="https://www.amazon.com/Modern-Python-Cookbook-flawless-expressive-ebook/dp/B08DHZ473S/?_encoding=UTF8&pd_rd_w=hCP4i&content-id=amzn1.sym.ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_p=ed85217c-14c9-4aa0-b248-e47393e2ce12&pf_rd_r=132-0821172-6140538&pd_rd_wg=1QDw3&pd_rd_r=4682ea78-be09-40cf-9204-71de8677710f&ref_=aufs_ap_sc_dsk"> Amazon </a></p>
@@ -134,7 +135,7 @@
 
 
 <br><br>
-<h3 style="color:black";><bold>Project Management on AI </bold></h3>
+# Project Management on AI 
 <p> Thinking in Systems by <b> <bold> Donella H. Meadows </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Amazon </a></p>
 <p> The AI Product Manager's Handbook: Develop a product that takes advantage of machine learning to solve AI problems by <b><bold>Irene Bratsis</bold> </b> on <a href="https://www.amazon.com/AI-Product-Managers-Handbook-advantage/dp/1804612936"> Amazon </a></p>
 <p> Managing Machine Learning Projects: From design to deployment by <b><bold>Simon Thompson</bold> </b> on <a href="https://www.amazon.com/Managing-Machine-Learning-Projects-deployment-ebook/dp/B0C74T6SMY/ref=sr_1_5?crid=3B8DG0I94IRTO&keywords=devops+machine+learning&qid=1689091299&s=books&sprefix=devops+machine+lear%2Cstripbooks-intl-ship%2C746&sr=1-5"> Amazon </a></p>
@@ -143,12 +144,12 @@
 
   
 <br><br>
-<h3 style="color:black"; >Data Visualization</h3>
+# Data Visualization
 <p> Streamlit for Data Science - 2nd Edition  by <b> <bold> Tyler Richards </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Packt </a></p>
 
 
 <br><br>
-<h3 style="color:black";><bold>Language</bold></h3>
+# Language
 <p> The English Grammar Workbook for Adults: A Self-Study Guide to Improve Functional Writing by <b> <bold> Donella H. Meadows </bold></b> on <a href="https://www.amazon.com/English-Grammar-Workbook-Adults-Self-Study/dp/1646113195/ref=pd_bxgy_img_sccl_1/139-3599125-0496544?pd_rd_w=0j2LM&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=GZSAP3EVN0B0XE4SF483&pd_rd_wg=r47hU&pd_rd_r=c87187b3-2f82-4353-92d2-3d12ec17d142&pd_rd_i=1646113195&psc=1"> Amazon </a></p>
 <p> The Vocabulary Builder Workbook: Simple Lessons and Activities to Teach Yourself Over 1,400 Must-Know Words  by <b> <bold> Chris Lele</bold></b> on <a href="https://www.amazon.com/Vocabulary-Builder-Workbook-Activities-Must-Know/dp/193975481X/ref=pd_bxgy_img_sccl_1/139-3599125-0496544?pd_rd_w=EY59s&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=GQ61QGWNPKNNCBW30R1Y&pd_rd_wg=f5uR0&pd_rd_r=c7693e0b-0b3f-426e-9e36-10aa6a53f259&pd_rd_i=193975481X&psc=1"> Amazon </a></p>
 <p> 109 Phrasal Verbs 2nd Edition by <b> <bold> Michael DiGiacomo </bold></b> on <a href="https://www.amazon.com/109-Phrasal-Verbs-Michael-DiGiacomo/dp/0991507959"> Amazon </a></p>
