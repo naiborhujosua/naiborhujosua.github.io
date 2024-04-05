@@ -1,4 +1,10 @@
+{: .box-success} This is a list of my book collections for the past 2 years. I love every piece of content delivered on each book that makes me able to further comprehend diverse topics with various context. For the review of the books
+you can take a look at my [Goodreads Profile](https://www.goodreads.com/naiborhujosua)
+
+
+
 ## Recent Reads
+
 - <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
 - <p> Serious Python: Black-Belt Advice on Deployment, Scalability, Testing by  <b> <bold>Julien Danjou  </bold></b> on <a href="https://www.amazon.com/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5"> Amazon </a></p>
 - <p> Applied Regression Analysis (Wiley Series in Probability and Statistics) Third Edition by  Norman Draper <b> <bold>Julien Danjou </bold></b> on <a href="https://www.amazon.com/Applied-Regression-Analysis-Probability-Statistics/dp/0471170828"> Amazon </a></p>
@@ -156,4 +162,5 @@
 <p> English for Everyone: English Vocabulary Builder (DK English for Everyone) by <bold> DK </bold>on <a href="https://www.amazon.com/gp/product/B088H5Q5TB?ref_=dbs_m_mng_rwt_calw_tkin_18&storeType=ebooks"> Amazon </a></p>
 <p> English for Everyone: Phrasal Verbs: An ESL Book of Over 1,000 English Phrasal Verbs  by <bold>DK    </bold>on <a href="https://www.amazon.com/English-Everyone-Phrasal-Verbs-DK/dp/0744027446/ref=pd_bxgy_d_sccl_1/131-0735788-7658234?pd_rd_w=udLii&content-id=amzn1.sym.839d7715-b862-4989-8f65-c6f9502d15f9&pf_rd_p=839d7715-b862-4989-8f65-c6f9502d15f9&pf_rd_r=BJTRCEACNN9CBEQK6CR8&pd_rd_wg=a89pZ&pd_rd_r=ca2f8611-4d89-4d9e-8410-f4409b8978f4&pd_rd_i=0744027446&psc=1"> Amazon </a></p>
 <p> English for Everyone: Level 4: Advanced, Course Book: A Complete Self-Study Program by <bold>DK    </bold>on <a href="https://www.amazon.com/gp/product/B088H1M9V4?ref_=dbs_m_mng_rwt_calw_tkin_8&storeType=ebooks"> Amazon </a></p>
+
 
