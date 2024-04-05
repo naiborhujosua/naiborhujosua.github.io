@@ -1,6 +1,6 @@
-{: .box-success} This is a list of my book collections for the past 2 years. I love every piece of content delivered on each book that makes me able to further comprehend diverse topics with various context. For the review of the books
+{: .box-success}
+This is a list of my book collections for the past 2 years. I love every piece of content delivered on each book that makes me able to further comprehend diverse topics with various context. For the review of the books
 you can take a look at my [Goodreads Profile](https://www.goodreads.com/naiborhujosua)
-
 
 
 ## Recent Reads
