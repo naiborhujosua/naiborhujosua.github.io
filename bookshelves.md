@@ -1,4 +1,5 @@
-## Book Collections
+## Recent Reads
+
 
 # Technical Reads 
 <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
