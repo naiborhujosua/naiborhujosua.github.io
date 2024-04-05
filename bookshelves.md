@@ -6,7 +6,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 **Note:**  Technical Reads
 
 - <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
-- <p> BSoftware Engineering for Data Scientists: From Notebooks to Scalable Systems by <b> <bold>Catherine Nelson</bold> </b> on <a href="https://www.amazon.co.uk/Software-Engineering-Data-Scientists-Notebooks/dp/1098136209"> Amazon  </a></p>
+- <p> Software Engineering for Data Scientists: From Notebooks to Scalable Systems by <b> <bold>Catherine Nelson</bold> </b> on <a href="https://www.amazon.co.uk/Software-Engineering-Data-Scientists-Notebooks/dp/1098136209"> Amazon  </a></p>
 - <p> Serious Python: Black-Belt Advice on Deployment, Scalability, Testing by  <b> <bold>Julien Danjou  </bold></b> on <a href="https://www.amazon.com/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5"> Amazon </a></p>
 - <p> Applied Regression Analysis (Wiley Series in Probability and Statistics) Third Edition by  Norman Draper <b> <bold>Julien Danjou </bold></b> on <a href="https://www.amazon.com/Applied-Regression-Analysis-Probability-Statistics/dp/0471170828"> Amazon </a></p>
 - <p> Feature Engineering and Selection: A Practical Approach for Predictive Models by <b><bold>Max Kuhn </bold></b> on <a href="https://www.amazon.com/gp/product/1138079227/ref=as_li_tl?ie=UTF8&tag=apm0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1138079227&linkId=c801e78acfc3bc022dbed02af4851962"> Amazon </a></p>
