@@ -159,10 +159,6 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 
 <br><br>
 {: .box-note}
-**Language**
-
-  
-{: .box-note}
 **Note:** Language
 
 <p> The English Grammar Workbook for Adults: A Self-Study Guide to Improve Functional Writing by <b> <bold> Donella H. Meadows </bold></b> on <a href="https://www.amazon.com/English-Grammar-Workbook-Adults-Self-Study/dp/1646113195/ref=pd_bxgy_img_sccl_1/139-3599125-0496544?pd_rd_w=0j2LM&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=GZSAP3EVN0B0XE4SF483&pd_rd_wg=r47hU&pd_rd_r=c87187b3-2f82-4353-92d2-3d12ec17d142&pd_rd_i=1646113195&psc=1"> Amazon </a></p>
