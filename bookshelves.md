@@ -153,11 +153,10 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 
   
 {: .box-note}
-**Note:** Data Visualization*
+**Note:** Data Visualization
 <p> Streamlit for Data Science - 2nd Edition  by <b> <bold> Tyler Richards </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Packt </a></p>
 
 
-<br><br>
 {: .box-note}
 **Note:** Language
 
