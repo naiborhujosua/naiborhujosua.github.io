@@ -12,7 +12,7 @@ With over four years of experience in various industries, I have utilized AI cap
 On top of that, I enjoy spending my leisure time reading books and running. I have taken part in Jakarta Marathon 2015 and Osaka Marathon 2019. I am participating in the 2024 Challenges to read [over 50 books](https://naiborhujosua.github.io/bookshelves/) on diverse topics such as machine learning, deep learning, content creation, writing, and solopreneurship.
 
 #### How To Reach Out
-To get in touch with me, you can send an e-mail to [Jos Labs](naiborhujosua@alumni.ui.ac.id). I also use Telegram, feel free to ask me for my number if that’s your favorite communication method. I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle ❤️.
+To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.id>. I also use Telegram, feel free to ask me for my number if that’s your favorite communication method. I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle ❤️.
 
 #### Note: 
 I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning-based solutions that further streamline business processes and workflows can [schedule my time](https://calendly.com/naiborhujosua/60min).
