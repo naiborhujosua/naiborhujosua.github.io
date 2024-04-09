@@ -51,39 +51,51 @@ Shap framework has the ability to interpret the data based on 2 approaches namel
 
 Global interpretability with feature importance
 
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/1.JPG)
+
 The preceding barplot shows how each feature impacts the prediction we make on training data based on the machine learning model we use. We can see Contract feature has the most significant influence on predicting the target outcome followed by MonthlyCharges and tenure.
 
 Global interpretability with heatmap plots
+
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/2.JPG)
 
 The heatmap shows the impact of all features on the model. We can see the increase contract feature will also increase tenure and TotalCharges in the red region due to the higher shap value for these features. The f(x) curve on the top shows how the predicted Churn with the increase of data instances. We can see how the Churn predictions influence the increase of the data instances.
 
 Global interpretability with hierarchical
 
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/3.JPG)
+
 This plot shows that feature tenure and TotalCharges form a group and OnlineSecurity and Multiplines form another group. This process is then called hierarchical clustering. This graph also shows how a few features have some interaction based on the subgroup and it could be a feature that we can detect in our EDA for further analysis.
 
 Global interpretability with SHAP summary plots
 
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/4.JPG)
+
+
 The violin plots show the positive or negative impact of the feature for some data points. TotalCharges shows a positive correlation with the target outcome because of the red color gradient. However, it differs with Contract, tenure, and TotalCharges in which low values indicate churn.
 
+
 Global interpretability with feature dependence plot
+
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/5.JPG)
 
 A feature independence plot is like a scatterplot where we can look at the correlation of two variables. The visualization shows the increase of TotalCharges will increase the Contract too.
 
 Local interpretability using Waterfall plots
 
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/6.JPG)
 
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/7.JPG)
 
 we can see from an inference of data instance towards the features on the first and second observation shows different results in which on the first observation, the contract feature contributes negatively towards the model prediction whereas the contract feature contributes positively towards the model prediction on the second one.
 
 Local interpretability with decision plot
 
+![GLobal Interpretability](https://github.com/naiborhujosua/naiborhujosua.github.io/blob/master/assets/img/8.JPG)
+
 Decision plots help the interpretability to handle many features in our dataset to interpret. We can see from the preceding plots how each current local predictions are higher or lower than the average predicted outcome and how the value of the features is affecting the model outcome. In the two examples shown, the cases features contract to TechSupport are negatively impacting the model while most features on the second observation are positively impacting the model prediction.
 
-You can also read another article related to Explainability AI (XAI)
-
-How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)
-Machine learning models are black box models. By giving input to these models, we can get output based on the particular…
-www.freecodecamp.org
+You can also read another article related to [Explainability AI (XAI) published by Freecodecamp](https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/)
 
 References:
 
