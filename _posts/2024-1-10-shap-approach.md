@@ -22,7 +22,7 @@ Shap (Shapley Additive exPlanations) is one of the most of Explainable Artificia
 
 Imagine you are participating in a machine learning hackathon with your team that consists of 4 members. Everyone has their own unique abilities in order to approach the problem given in the hackathon. If your team wins the hackathon, how do you decide on the fair payout for the particular member of the contribution given by a particular member.
 
-It is definitely wise to divide a distinct portion of the payout for a particular member. That is the same with how shap interpret our model based on the data we train on the machine learning model. Mathematically speaking, this is a complex thing to explain. You can check the research paper of the mathematical explanation for this interpretable tool and their GitHub repository for the update features.
+It is definitely wise to break down a distinct portion of the payout for a particular member. That is the same with how shap interpret our model based on the data we train on the machine learning model. Mathematically speaking, this is a complex thing to explain. You can check the research paper of the mathematical explanation for this interpretable tool and their GitHub repository for the update features.
 
 We will walk through an example to implement shap for telco churn dataset that we can download here
 
@@ -38,17 +38,14 @@ You can take a look at the implementation in this [notebook for your reference](
 
 ## Interpreting Result
 
-The first thing we need to do before interpreting the result is to train our machine learning model on the training data. On this dataset, we use XGBoostClassifier for solving this classification problem to look into the customers who churn or not as follows.
+The first thing we need to do before interpreting the result is to train our machine learning model on the training data. On this dataset, we use XGBoostClassifier for solving this classification problem to look into the customers who churn or not as shown in the following code.
 
 ```python
 model = XGBClassifier(n_estimators = 50, random_state = 42)
 model.fit(x_train, y_train)
 ```
 
-
-
 Shap works as a surrogate model to interpret our machine learning model prediction using shap value. We have to get this value using the following code. We instantiate the shap object and test the shap algorithm to our test data.
-
 
 ```python
 explainer = shap.Explainer(model)
