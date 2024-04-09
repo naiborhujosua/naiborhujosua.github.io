@@ -5,7 +5,7 @@ subtitle: a method to interpret your black box models
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/shap.JPG
-thumbnail-img: /assets/img/shap.JPG
+thumbnail-img: /assets/img/thumb.JPG
 share-img: /assets/img/shap.JPG
 tags: [shap,method,xai]
 comments: true
