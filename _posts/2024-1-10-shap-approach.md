@@ -2,7 +2,7 @@
 layout: post
 title: This 1 Explainable AI(XAI) package can solve your business problems
 subtitle: a method to interpret your black box models
-gh-repo: daattali/beautiful-jekyll
+gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/shap.JPG
 thumbnail-img: /assets/img/shap.JPG
