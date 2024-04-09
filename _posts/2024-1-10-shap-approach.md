@@ -49,6 +49,11 @@ model.fit(x_train, y_train)
 Shap works as a surrogate model to interpret our machine learning model prediction using shap value. We have to get this value using the following code. We instantiate the shap object and test the shap algorithm to our test data.
 
 
+```python
+explainer = shap.Explainer(model)
+shap_values = explainer(x_test)
+```
+
 Shap framework has the ability to interpret the data based on 2 approaches namely local Interpretability and global Interpretability. Local interpretability is the way how shap interprets the data based on a specific data instance whereas global interpretability interprets the data on the holistic features and data we have. Oftentimes, It is better to predict based on a particular data instance over all the data due to different interpretations and results. We will be visualizing the global interpretability and local one for our own use cases.
 
 Global interpretability with feature importance
