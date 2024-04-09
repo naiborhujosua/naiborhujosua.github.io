@@ -4,8 +4,8 @@ title: This 1 Explainable AI(XAI) package can solve your business problems
 subtitle: a method to interpret your black box models
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/shap.JPG
-thumbnail-img: /assets/img/thumb.JPG
+cover-img: /assets/img/thumb.JPG
+thumbnail-img: /assets/img/shap.JPG  
 share-img: /assets/img/shap.JPG
 tags: [shap,method,xai]
 comments: true
