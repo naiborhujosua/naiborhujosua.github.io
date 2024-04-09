@@ -95,7 +95,7 @@ Local interpretability with decision plot
 
 Decision plots help the interpretability to handle many features in our dataset to interpret. We can see from the preceding plots how each current local predictions are higher or lower than the average predicted outcome and how the value of the features is affecting the model outcome. In the two examples shown, the cases features contract to TechSupport are negatively impacting the model while most features on the second observation are positively impacting the model prediction.
 
-You can also read another article related to [Explainability AI (XAI) published by Freecodecamp](https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/)
+You can also read my article related to [Explainability AI (XAI) published by Freecodecamp](https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/)
 
 References:
 
