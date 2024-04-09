@@ -111,6 +111,6 @@ References:
 [2]. Scott M. Lundberg. “Shapley Additive Explanations”. (2017).
 
 Thank you for reading!
-I really appreciate it! 🤗. I post machine learning and deep learning- related topics. I try to keep my posts simple but precise, always providing visualization, and simulations.
+I really appreciate it 🤗. I post machine learning and deep learning- related topics. I try to keep my posts simple but precise, always providing visualization, and simulations.
 
 
