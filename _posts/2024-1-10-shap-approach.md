@@ -26,22 +26,24 @@ It is definitely wise to divide a distinct portion of the payout for a particula
 
 We will walk through an example to implement shap for telco churn dataset that we can download here
 
-Telco Customer Churn
-Focused customer retention programs
-www.kaggle.com
+[Telco Customer Churn Focused customer retention programs](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?source=post_page-----85a9842b5cbd--------------------------------)
+
 
 This dataset contains 7043 customers and 21 features to predict whether the customers will churn or not based on data instances. We are not diving deeper into the complete machine learning process here. I just do a simple exploratory data analysis and preprocessing data.
 
 It is recommended to make a proper exploratory data analysis, data cleaning, feature engineering, feature selection, cross-validation, and evaluation steps in order to get a much better prediction of the data instance. We are mainly focused on the implementation of Shap for interpreting the models for this tutorial.
 
-You can take a look at the implementation in this notebook for your reference.
+You can take a look at the implementation in this [notebook for your reference](https://deepnote.com/workspace/josua-naiborhu-6357636c-7a32-47a2-9932-f929b2448e11/project/Interpreting-black-box-models-1bc2c841-e6bf-4fd7-9ba8-536abd8d71ce/notebook/9053199437104a4884e8864e2c764d3f?source=post_page-----85a9842b5cbd--------------------------------).
 
-Deepnote
-Managed notebooks for data scientists and researchers.
-deepnote.com
 
 Interpreting Result
 The first thing we need to do before interpreting the result is to train our machine learning model on the training data. On this dataset, we use XGBoostClassifier for solving this classification problem to look into the customers who churn or not as follows.
+
+```python
+model = XGBClassifier(n_estimators = 50, random_state = 42)
+model.fit(x_train, y_train)
+```
+
 
 
 Shap works as a surrogate model to interpret our machine learning model prediction using shap value. We have to get this value using the following code. We instantiate the shap object and test the shap algorithm to our test data.
