@@ -4,11 +4,15 @@ title: This 1 Explainable AI(XAI) package can solve your business problems
 subtitle: a method to interpret your black box models
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+cover-img: /assets/img/shap.JPG
+thumbnail-img: /assets/img/shap.JPG
+share-img: /assets/img/shap.JPG
+tags: [shap,method,xai]
 comments: true
 mathjax: true
 author: Jos Labs
 ---
+
 
 Developing machine learning applications need a lot of steps. Gathering the data, doing data cleaning, exploring the data through exploratory data analysis, feature engineering, feature selection, modeling, evaluation, and interpretation. Interpretation is one of the crucial parts of developing a machine learning application. This process needs a lot of attention due to the business process. The machine learning engineer needs to explain how the machine learning model makes a particular prediction on the data to the non-technical experts/stakeholders.
 
