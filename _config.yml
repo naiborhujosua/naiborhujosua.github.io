@@ -60,7 +60,7 @@ social-network-links:
   #patreon: DeanAttali
   #youtube: "@daattali"
  # whatsapp: 15551212
-  medium: naiborhujosua
+ # medium: naiborhujosua
 #  reddit: yourname
   linkedin: naiborhujosua
 #  xing: yourname
@@ -155,7 +155,7 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
@@ -196,7 +196,7 @@ footer-hover-col: "#0085A1"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "naiborhujosua"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
