@@ -10,7 +10,7 @@ share-img: /assets/img/shap.JPG
 tags: [shap,method,xai]
 comments: true
 mathjax: true
-author: Jos Labs
+author: Josua Naiborhu
 ---
 
 
