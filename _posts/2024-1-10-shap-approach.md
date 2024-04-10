@@ -14,7 +14,7 @@ author: Jos Labs
 ---
 
 
-Developing machine learning applications need a lot of steps. Gathering the data, doing data cleaning, exploring the data through exploratory data analysis, feature engineering, feature selection, modeling, evaluation, and interpretation. Interpretation is one of the crucial parts of developing a machine learning application. This process needs a lot of attention due to the business process. The machine learning engineer needs to explain how the machine learning model makes a particular prediction on the data to the non-technical experts/stakeholders.
+Developing machine learning applications need a lot of steps. Gathering the data, doing data cleaning, exploring the data through exploratory data analysis, feature engineering, feature selection, modeling, evaluation, and interpretation. Interpretation is one of the crucial parts of developing a machine learning application. This process needs a lot of attention due to the business requirement. Machine learning engineers require to explain how the machine learning model makes a certain prediction on the data to the non-technical experts/stakeholders.
 
 Imagine if you are using a neural network model with complex features for developing your machine learning application, Will the non-technical experts trust your model prediction? Absolutely no. It is going to be a big problem for the technical experts and the stakeholders to accelerate the business processes using machine learning due to misinterpretation of the models. Thus, the ability to interpret the model is essential knowledge to know for making non-technical experts to trust our machine learning model when making a specific prediction on the data.
 
