@@ -24,9 +24,7 @@ Imagine you are participating in a machine learning hackathon with your team tha
 
 It is definitely wise to break down a distinct portion of the payout for a particular member. That is the same with how shap interpret our model based on the data we train on the machine learning model. Mathematically speaking, this is a complex thing to explain. You can check the research paper of the mathematical explanation for this interpretable tool and their GitHub repository for the update features.
 
-We will walk through an example to implement shap for telco churn dataset that we can download here
-
-[Telco Customer Churn Focused customer retention programs](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?source=post_page-----85a9842b5cbd--------------------------------)
+We will walk through an example to implement shap for telco churn dataset that we can download on [Telco Customer Churn Focused customer retention programs](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?source=post_page-----85a9842b5cbd--------------------------------)
 
 
 This dataset contains 7043 customers and 21 features to predict whether the customers will churn or not based on data instances. We are not diving deeper into the complete machine learning process here. I just do a simple exploratory data analysis and preprocessing data.
