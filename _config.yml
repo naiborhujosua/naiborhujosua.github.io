@@ -22,9 +22,9 @@ author: © Jos Labs
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Papers: "papers"
     - Hackathon: "hackathon"
     - Open Source: "opensource"
-    - Papers: "papers"
   Consultation: "https://calendly.com/naiborhujosua/60min"
   Bookshelves: "bookshelves"
 
