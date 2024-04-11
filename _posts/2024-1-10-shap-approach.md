@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This 1 Explainable AI(XAI) package can solve your business problems
+title: Leveraging the Potential of Explainable AI (XAI) to Address Your Company's Challenges
 subtitle: a method to interpret your black box models
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, fork, follow]
