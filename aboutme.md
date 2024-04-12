@@ -17,5 +17,5 @@ To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.i
 
 {: .box-success}
 #### Cite My Content
-© Josua Antonius Naiborhu, 2023-2024.These posts are meant to be used for educational purposes. Excerpts and links from this site may be used, provided that full and clear credit is given to Josua Naiborhu with appropriate and specific direction to the original content.
+© Josua Naiborhu, 2023-2024.These posts are meant to be used for educational purposes. Excerpts and links from this site may be used, provided that full and clear credit is given to Josua Naiborhu with appropriate and specific direction to the original content.
 
