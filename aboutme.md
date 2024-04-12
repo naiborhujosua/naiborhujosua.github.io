@@ -25,7 +25,7 @@ To cite my content, use the below format:
 author = {Josua Naiborhu},
 journal = {naiborhujosua.github.io},
 month = {01},
-title = {{Machine Learning and Deep Learning Blog}},
+title = {{Machine-Learning-and-Deep-Learning-Blog}},
 year = {2024}
 }
 ```
