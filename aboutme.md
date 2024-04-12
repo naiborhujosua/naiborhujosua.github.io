@@ -23,9 +23,8 @@ To cite my content, use the below format:
 ```
 @article{jos-Labs,
 author = {Josua Naiborhu},
-journal = {naiborhujosua.github.io},
+journal = {https://naiborhujosua.github.io},
 month = {01},
-title = {{Machine-Learning-and-Deep-Learning-Blog}},
 year = {2024}
 }
 ```
