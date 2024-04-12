@@ -18,9 +18,9 @@ To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.i
 {: .box-success}
 #### Cite My Content
 
-To cite this guide, use the below format:
+To cite my content, use the below format:
 
-```
+``` javscript
 @article{jos-Labs,
 author = {Josua Naiborhu},
 journal = {naiborhujosua.github.io},
