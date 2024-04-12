@@ -16,5 +16,16 @@ On top of that, I enjoy spending my leisure time reading books and running. I ha
 To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.id>. I also use Telegram, feel free to ask me for my number if that’s your favorite communication method. I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle ❤️.
 
 {: .box-success}
-#### Regarding my content
-© Josua Naiborhu, 2024. My Content are meant to be used for educational purposes. Excerpts and links from this site may be used, provided that full and clear credit is given to Josua Naiborhu with appropriate and specific direction to the original content.
+## Cite Us
+
+To cite this guide, use the below format:
+
+```
+@article{jos-Labs-Content,
+author = {Josua Naiborhu},
+journal = {https://github.com/aishwaryanr/awesome-generative-ai-resources},
+month = {01},
+title = {{Machine Learning and Deep Learning Blog}},
+year = {2024}
+}
+```
