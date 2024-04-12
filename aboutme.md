@@ -11,11 +11,11 @@ With over four years of experience in various industries, I have utilized AI cap
 
 On top of that, I enjoy spending my leisure time reading books and running. I have taken part in Jakarta Marathon 2015 and Osaka Marathon 2019. I am participating in the 2024 Challenges to read [over 100 books](https://naiborhujosua.github.io/bookshelves/) on diverse topics such as machine learning, deep learning, content creation, writing, and solopreneurship.
 
-{: .box-success}
+{: .box-note}
 #### How To Reach Out
 To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.id>. I also use Telegram, feel free to ask me for my number if that’s your favorite communication method. I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle ❤️.
 
-{: .box-success}
+{: .box-note}
 #### Cite My Content
 © Josua Naiborhu, 2023-2024. These posts are meant to be used for educational purposes. Excerpts and links from this site may be used, provided that full and clear credit is given to Josua Naiborhu with appropriate and specific direction to the original content.
 
