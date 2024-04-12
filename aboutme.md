@@ -16,14 +16,14 @@ On top of that, I enjoy spending my leisure time reading books and running. I ha
 To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.id>. I also use Telegram, feel free to ask me for my number if that’s your favorite communication method. I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle ❤️.
 
 {: .box-success}
-## Cite Us
+## Cite My Content
 
 To cite this guide, use the below format:
 
 ```
-@article{jos-Labs-Content,
+@article{jos-Labs,
 author = {Josua Naiborhu},
-journal = {https://github.com/aishwaryanr/awesome-generative-ai-resources},
+journal = {naiborhujosua.github.io},
 month = {01},
 title = {{Machine Learning and Deep Learning Blog}},
 year = {2024}
