@@ -20,7 +20,7 @@ To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.i
 
 To cite my content, use the below format:
 
-``` javscript
+```
 @article{jos-Labs,
 author = {Josua Naiborhu},
 journal = {naiborhujosua.github.io},
