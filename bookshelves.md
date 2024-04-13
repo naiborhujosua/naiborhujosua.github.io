@@ -3,7 +3,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 
 
 {: .box-note}
-**Note:**  Technical Reads
+Technical Reads
 
 - <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
 - <p> Software Engineering for Data Scientists: From Notebooks to Scalable Systems by <b> <bold>Catherine Nelson</bold> </b> on <a href="https://www.amazon.co.uk/Software-Engineering-Data-Scientists-Notebooks/dp/1098136209"> Amazon  </a></p>
@@ -66,7 +66,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <br><br>
 
 {: .box-note}
-**Note:**  Soft skills
+Soft skills
 
 - <p> Soft Skills: The Software Developer's Life Manual by <b> <bold>John Sonmez</bold></b> on <a href="https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B09BP6JWTQ/ref=sr_1_1?crid=3OWPYYSJ2UUT2&keywords=software+skills&qid=1690775965&s=books&sprefix=softwareb%2Cstripbooks-intl-ship%2C4702&sr=1-1"> Amazon </a></p>
 - <p> Power And Prediction: The Disruptive Economics of Artificial Intelligence by <b> <bold>Ajay Agrawal</bold> </b> on <a href="https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192"> Amazon </a></p>
@@ -97,7 +97,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <br><br>
 
 {: .box-note}
-**Note:** Content Creation
+Content Creation
 
 - <p> Successful Self-Publishing: How to self-publish and market your book in ebook and print by <b><bold> Joanna Penn</bold> </b> on <a href="https://www.amazon.com/Successful-Self-Publishing-self-publish-market-Writers/dp/1912105853"> Amazon </a></p>
 - <p> The One Hour Content Plan: The Solopreneur’s Guide to a Year’s Worth of Blog Post Ideas in 60 Minutes and Creating Content That Hooks and Sells by <b><bold>  Meera Kothand </bold> </b> on <a href="https://www.amazon.com/One-Hour-Content-Plan-Solopreneurs-ebook/dp/B074T5ZHP7"> Amazon </a></p>
@@ -129,7 +129,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
  
   
 {: .box-note}
-**Note:** Code quality
+Code quality
 
 - <p> Refactoring at Scale: Regaining Control of Your Codebase 1st Edition by <b><bold>   Maude Lemaire  </bold> </b> on <a href="https://www.amazon.com/Refactoring-Scale-Regaining-Control-Codebase/dp/1492075531"> Amazon </a></p>
 - <p> Refactoring: Improving the Design of Existing Code by <b><bold> Martin Fowler </bold> </b> on <a href="https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672"> Amazon </a></p>
@@ -144,7 +144,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <br><br>
 
 {: .box-note}
-**Note:**Project Management on AI
+Project Management on AI
 
 <p> Thinking in Systems by <b> <bold> Donella H. Meadows </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Amazon </a></p>
 <p> The AI Product Manager's Handbook: Develop a product that takes advantage of machine learning to solve AI problems by <b><bold>Irene Bratsis</bold> </b> on <a href="https://www.amazon.com/AI-Product-Managers-Handbook-advantage/dp/1804612936"> Amazon </a></p>
@@ -154,12 +154,12 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 
   
 {: .box-note}
-**Note:** Data Visualization
+Data Visualization
 <p> Streamlit for Data Science - 2nd Edition  by <b> <bold> Tyler Richards </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Packt </a></p>
 
 
 {: .box-note}
-**Note:** Language
+Language
 
 <p> The English Grammar Workbook for Adults: A Self-Study Guide to Improve Functional Writing by <b> <bold> Donella H. Meadows </bold></b> on <a href="https://www.amazon.com/English-Grammar-Workbook-Adults-Self-Study/dp/1646113195/ref=pd_bxgy_img_sccl_1/139-3599125-0496544?pd_rd_w=0j2LM&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=GZSAP3EVN0B0XE4SF483&pd_rd_wg=r47hU&pd_rd_r=c87187b3-2f82-4353-92d2-3d12ec17d142&pd_rd_i=1646113195&psc=1"> Amazon </a></p>
 <p> The Vocabulary Builder Workbook: Simple Lessons and Activities to Teach Yourself Over 1,400 Must-Know Words  by <b> <bold> Chris Lele</bold></b> on <a href="https://www.amazon.com/Vocabulary-Builder-Workbook-Activities-Must-Know/dp/193975481X/ref=pd_bxgy_img_sccl_1/139-3599125-0496544?pd_rd_w=EY59s&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=GQ61QGWNPKNNCBW30R1Y&pd_rd_wg=f5uR0&pd_rd_r=c7693e0b-0b3f-426e-9e36-10aa6a53f259&pd_rd_i=193975481X&psc=1"> Amazon </a></p>
