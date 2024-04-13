@@ -20,4 +20,4 @@ To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.i
 
 {: .box-note}
 #### Note
-I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by 1-on-1 Consultation which you can find on this site.
+I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by 1-on-1 Consultation which you can find out on this site.
