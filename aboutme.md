@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Let me introduce myself in a brief 👋
 ---
 
 
