@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Papers
-subtitle: Papers I am currently interested in [arXiv](https://arxiv.org/)
-
+subtitle: Papers I am currently interested in arXiv
 ---
   - "Why Should I Trust You?” Explaining the Predictions of Any Classifier
   - Evaluation Gaps in Machine Learning Practice
