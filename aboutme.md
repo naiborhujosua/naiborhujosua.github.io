@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, a consultant, blogger, machine learning engineer, and a big fan of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum). I hold a Bachelor of Computer Engineering from [Universitas Indonesia](https://www.ui.ac.id/).
+Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, a  machine learning engineer and a big fan of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum). I hold a Bachelor of Computer Engineering from [Universitas Indonesia](https://www.ui.ac.id/).
 
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. My areas of expertise include statistical learning, predictive modeling, Large Language Models, and interpretable machine learning. I share content about designing machine learning and deep learning systems from a software engineering perspective.
 
