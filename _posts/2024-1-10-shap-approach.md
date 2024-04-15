@@ -19,7 +19,7 @@ Imagine if you are using a neural network model with complex features for develo
 
 Shap (Shapley Additive exPlanations) is one of the most of Explainable Artificial Intelligence(XAI) tools to interpret why machine learning models make a specific prediction on the data instances. Shapley Additive exPlanations uses shap value in order to explain the prediction made by machine learning model. Shap value is based on the game theory approach to making a prediction.
 
-Imagine you are participating in a machine learning hackathon with your team that consists of 4 members. Everyone has their own unique abilities in order to approach the problem given in the hackathon. If your team wins the hackathon, how do you decide on the fair payout for the particular member of the contribution given by a particular member.
+Imagine you are participating in a machine learning hackathon with your team that consists of 4 members. Everyone has their own unique abilities in order to approach the problem given in the hackathon. If your team won the hackathon, how would you decide on the fair payout for the particular member of the contribution given by a particular member.
 
 It is definitely wise to break down a distinct portion of the payout for a particular member. That is the same with how shap interpret our model based on the data we train on the machine learning model. Mathematically speaking, this is a complex thing to explain. You can check the research paper of the mathematical explanation for this interpretable tool and their GitHub repository for the update features.
 
