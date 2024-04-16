@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Leveraging the Potential of Explainable AI (XAI) to Address Your Company's Challenges
 subtitle: a method to interpret your black box models
 gh-repo: naiborhujosua/Blog_Notes
@@ -12,7 +12,7 @@ comments: true
 mathjax: true
 ---
 
-
+## <img src="../img/post.JPG" height="50px"> Recent Post
 Developing machine learning applications require substantial steps. Gathering the data, doing data cleaning, exploring the data through exploratory data analysis, feature engineering, feature selection, modeling, evaluation, and interpretation. Interpretation is one of the crucial parts of developing a machine learning application. This process requires a lot of scrutiny due to the business requirement. Machine learning engineers require to set out how the machine learning model makes a certain prediction on the data to the nontechnical businesspeople/stakeholders.
 
 Imagine if you are using a neural network model with complex features for developing your machine learning application, Will the nontechnical businesspeople trust your model prediction? Absolutely no. It is likely to be a big problem for the  stakeholders to speed up the business processes using machine learning due to the intricacy of the models. Thus, the ability to interpret the model is essential knowledge to know for making nontechnical businesspeople to trust our machine learning model when making a specific prediction on the data.
