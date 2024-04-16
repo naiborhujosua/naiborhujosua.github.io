@@ -137,7 +137,7 @@ keywords: "machinelearning,deeplearning,learningloopservices,mlops"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 ##ff4000 red  #ff5b34 #ffefe9 white
 # #FFB73F orange #FFAE00
-navbar-col: "##FF5B34"
+navbar-col: "#FF5B34"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
