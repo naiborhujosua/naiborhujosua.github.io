@@ -138,6 +138,7 @@ keywords: "machinelearning,deeplearning,learningloopservices,mlops"
 ##ff4000 red  #ff5b34 #ffefe9 white
 # #FFB73F orange #FFAE00
 # #00d9ff blue #67e1ff  #def8ff
+# #2e2e2a
 navbar-col: "#5ab9ff"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
@@ -147,7 +148,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#00a6ff"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#2e2e2a"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
