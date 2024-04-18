@@ -22,11 +22,12 @@ author: © JosLabs.
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Bookshelves: "bookshelves"
+    - Open Source: "opensource"
     - Papers: "papers"
     - Hackathon: "hackathon"
-    - Open Source: "opensource"
   Consultation: "https://calendly.com/60minutewithjos/60min?month=2024-04"
-  Bookshelves: "bookshelves"
+  
 
 ################
 # --- Logo --- #
