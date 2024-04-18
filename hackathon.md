@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hackathon
+title: Hack Day
 subtitle: List of Hackathon i am getting involved 👋
 ---
 
