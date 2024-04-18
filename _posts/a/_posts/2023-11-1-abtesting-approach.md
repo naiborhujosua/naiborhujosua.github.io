@@ -38,7 +38,8 @@ Getting a result from the experiment is not the end of the experimentation. Gett
 
 Statistical and Practical Significance Thresholds
 The figure shown above depicts the statistical and practical significance threshold where the two dashed lines are the practical significance boundary and the black box is the statistical significance threshold along with the confidence interval. We know from statistics theory that the statistical significance threshold is less than or equal to 5% to quantify that we should reject the null hypothesis and the practical significance is managed based on the condition of our objective that we wanted to achieve. Based on the practical and statistical significance, we can take a step either choosing to launch or not. However, we can even take a follow-up test to test our hypothesis in order to translate practical and statistical significance boundaries based on some consideration of our experiment to get statistical power(a condition where the p-value is less than(more extreme) or equal to 0.05 implying there is a difference between control and treatment mean assuming the null hypothesis is true).
-[!]()
+
+[!Statistical and Practical Significance Thresholds]("/assets/img/shap.JPG")
 
 ### Conclusion
 This book is really essential for every data scientist who specialized in product analytics in order to cover our understanding of data better through A/B testing. You will get a lot of enlightenment after reading this book.
