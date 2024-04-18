@@ -1,10 +1,10 @@
 ---
 layout: post
 title: My key takeaways of reading Trustworthy Online Controlled Experiments Book
-subtitle:A/B testing made easy
+subtitle: A/B testing made easy
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
-cover-img: /assets/img/thumb.JPG
+cover-img: /assets/img/abtest.jpg
 thumbnail-img: /assets/img/shap.JPG  
 share-img: /assets/img/shap.JPG
 tags: [a/b testing]
