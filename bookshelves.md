@@ -6,7 +6,6 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 Technical Reads
 
 - <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
-- https://www.goodreads.com/book/show/169996646-winning-with-data-science
 - <p> Software Engineering for Data Scientists: From Notebooks to Scalable Systems by <b> <bold>Catherine Nelson</bold> </b> on <a href="https://www.amazon.co.uk/Software-Engineering-Data-Scientists-Notebooks/dp/1098136209"> Amazon  </a></p>
 - <p> Serious Python: Black-Belt Advice on Deployment, Scalability, Testing by  <b> <bold>Julien Danjou  </bold></b> on <a href="https://www.amazon.com/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5"> Amazon </a></p>
 - <p> Applied Regression Analysis (Wiley Series in Probability and Statistics) Third Edition by  Norman Draper <b> <bold>Julien Danjou </bold></b> on <a href="https://www.amazon.com/Applied-Regression-Analysis-Probability-Statistics/dp/0471170828"> Amazon </a></p>
