@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Leveraging the Potential of Explainable AI (XAI) to Address Your Company's Challenges
 subtitle: a method to interpret your black box models
 gh-repo: naiborhujosua/Blog_Notes
