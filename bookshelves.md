@@ -6,6 +6,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 Technical Reads
 
 - <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
+- https://www.goodreads.com/book/show/169996646-winning-with-data-science
 - <p> Software Engineering for Data Scientists: From Notebooks to Scalable Systems by <b> <bold>Catherine Nelson</bold> </b> on <a href="https://www.amazon.co.uk/Software-Engineering-Data-Scientists-Notebooks/dp/1098136209"> Amazon  </a></p>
 - <p> Serious Python: Black-Belt Advice on Deployment, Scalability, Testing by  <b> <bold>Julien Danjou  </bold></b> on <a href="https://www.amazon.com/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5"> Amazon </a></p>
 - <p> Applied Regression Analysis (Wiley Series in Probability and Statistics) Third Edition by  Norman Draper <b> <bold>Julien Danjou </bold></b> on <a href="https://www.amazon.com/Applied-Regression-Analysis-Probability-Statistics/dp/0471170828"> Amazon </a></p>
@@ -152,8 +153,8 @@ Project Management on AI
 <p> Managing Machine Learning Projects: From design to deployment by <b><bold>Simon Thompson</bold> </b> on <a href="https://www.amazon.com/Managing-Machine-Learning-Projects-deployment-ebook/dp/B0C74T6SMY/ref=sr_1_5?crid=3B8DG0I94IRTO&keywords=devops+machine+learning&qid=1689091299&s=books&sprefix=devops+machine+lear%2Cstripbooks-intl-ship%2C746&sr=1-5"> Amazon </a></p>
 <p> The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by <b> <bold>Simon Thompson </bold></b> on <a href="https://www.amazon.com/P7-4008-b7be-636e59b1dfaf&pf_rd_r=GFKEBKD58SV8S4KZC3T1&pd_rd_wg=EDHfs&pd_rd_r=ed77c60f-9a8a-45fe-8a71-c6db1a9ae1ae&pd_rd_i=0988262592&psc=1"> Amazon </a></p>
 <p> Et al.: Because not all research deserves a Nobel Prize by <b> <bold>B McGraw </bold></b> on <a href="https://www.amazon.com/al-Because-research-deserves-Nobel/dp/183763257X"> Amazon </a></p>
+<p> Winning with Data Science: A Handbook for Business Leaders by <b> <bold>Howard Steven Friedman  </bold></b> on <a href="https://www.amazon.com/Winning-Data-Science-Handbook-Business/dp/0231206860"> Amazon </a></p>
 
-  
 {: .box-note}
 Data Visualization
 <p> Streamlit for Data Science - 2nd Edition  by <b> <bold> Tyler Richards </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Packt </a></p>
