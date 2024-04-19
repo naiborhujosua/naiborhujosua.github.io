@@ -19,5 +19,5 @@ To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.i
 © Josua Naiborhu, 2023-2024. These posts are meant to be used for educational purposes. Excerpts and links from this site may be used, provided that full and clear credit is given to Josua Naiborhu with appropriate and specific direction to the original content.
 
 {: .box-note}
-#### Note
+#### Note 👇
 I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by 1-on-1 Consultation which you can find out on this site.
