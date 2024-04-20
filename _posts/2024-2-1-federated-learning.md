@@ -29,8 +29,6 @@ In a traditional way of training machine learning model, we are hosting the data
 So, How could the ML model learns the data?
 ![source is via Cloudera blog](/assets/img/serverml.gif) 
 
-
-source is via Cloudera blog http://vision.cloudera.com/wp-content/uploads/2018/11/2018-10-31-181344-federated_learning_animated_labeled.gif
 The ML model does train the data for the available devices(node in the visualization above) whether when it is on idle mode/plugging or not used, so the user does not realize that the data has been trained by the machine learning model on the device. Then, a subset of devices that have already trained the data will aggregate the result to be sent to the server while also maintaining data privacy. This technology has been a breakthrough for maintaining data privacy which has been an issue for a few years while collecting and using data from users. Fortunately, Google has developed a TensorFlow federated learning API that we can use to implement federated learning when using TensorFlow for building machine learning applications. For anyone interested in the implementation of TensorFlow can look at the implementation code.
 
 Google Colaboratory
