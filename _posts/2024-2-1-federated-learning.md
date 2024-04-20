@@ -17,7 +17,6 @@ mathjax: true
 Big data has become ubiquitous, as every action we undertake generates data that holds the potential for valuable insights. For instance, we can improve our health management activities based on our sports activities tracked on our smartphones or we can type faster in the case of text generation while texting on our smartphones as well. These data or queries are one of many factors that need to preserve while we want to use them for machine learning use cases aforementioned. Data Privacy has been a big issue for big tech companies lately. There is a concern related to how big tech companies collect and use the data. For the purpose of this problem, there is a continuously developed framework that would be able to preserve data privacy while maintaining a machine learning model called Federated Learning.
 
 ![Federated ML](/assets/img/federatedml.jpg)  
-
 image is via Tianchen Liu on Federated Learning Process
 
 ## Introduction to Federated Learning
@@ -25,25 +24,22 @@ image is via Tianchen Liu on Federated Learning Process
 In a traditional way of training machine learning model, we are hosting the data and machine learning model on the same devices or centralized machine learning. However, Federated Learning learns a different way of training machine learning models with the data. Instead of sending data into the server to train, the model from the server is sent to each device.
 
 ![Federated ML](/assets/img/genmlfedml.png)
-
 The difference between centralized ML and Federated Learning
 
-So, How could the ML model learns the data?
 
-![source is via Cloudera blog http://vision.cloudera.com/wp-content/uploads/2018/11/2018-10-31-181344-federated_learning_animated_labeled.gif](/assets/img/serverml.gif) 
+So, How could the ML model learns the data?
+![source is via Cloudera blog](/assets/img/serverml.gif) 
 
 
 source is via Cloudera blog http://vision.cloudera.com/wp-content/uploads/2018/11/2018-10-31-181344-federated_learning_animated_labeled.gif
 The ML model does train the data for the available devices(node in the visualization above) whether when it is on idle mode/plugging or not used, so the user does not realize that the data has been trained by the machine learning model on the device. Then, a subset of devices that have already trained the data will aggregate the result to be sent to the server while also maintaining data privacy. This technology has been a breakthrough for maintaining data privacy which has been an issue for a few years while collecting and using data from users. Fortunately, Google has developed a TensorFlow federated learning API that we can use to implement federated learning when using TensorFlow for building machine learning applications. For anyone interested in the implementation of TensorFlow can look at the implementation code.
 
 Google Colaboratory
-
 [Federated ML on Google](https://colab.research.google.com/github/tensorflow/federated/blob/master/docs/tutorials/federated_learning_for_text_generation.ipynb)
 
 Moreover, Google developed Gboard typing based on learning the data that is typed by users so that a few sentences can be used to predict the complete address available on google maps. You can see the visualization as follow. This prediction is without sending the data into the server first to get a better prediction but the machine learning model has learned the data to predict it. This is really a breakthrough in maintaining data privacy.
 
 ![Federated ML](/assets/img/googleml.gif)
-
 Gboard Implementation on Federated Learning
 
 ### Federated Learning in Math
