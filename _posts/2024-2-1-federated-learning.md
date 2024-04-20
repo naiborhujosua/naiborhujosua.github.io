@@ -26,7 +26,7 @@ In a traditional way of training machine learning model, we are hosting the data
 
 ![Federated ML](/assets/img/genmlfedml.png)
 
-## The difference between centralized ML and Federated Learning
+The difference between centralized ML and Federated Learning
 
 So, How could the ML model learns the data?
 
