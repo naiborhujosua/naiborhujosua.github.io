@@ -17,14 +17,13 @@ mathjax: true
 Big data has become ubiquitous, as every action we undertake generates data that holds the potential for valuable insights. For instance, we can improve our health management activities based on our sports activities tracked on our smartphones or we can type faster in the case of text generation while texting on our smartphones as well. These data or queries are one of many factors that need to preserve while we want to use them for machine learning use cases aforementioned. Data Privacy has been a big issue for big tech companies lately. There is a concern related to how big tech companies collect and use the data. For the purpose of this problem, there is a continuously developed framework that would be able to preserve data privacy while maintaining a machine learning model called Federated Learning.
 
 ![Federated ML](/assets/img/federatedml.jpg)  
-image is via Tianchen Liu on Federated Learning Process
 
 ## Introduction to Federated Learning
 
 In a traditional way of training machine learning model, we are hosting the data and machine learning model on the same devices or centralized machine learning. However, Federated Learning learns a different way of training machine learning models with the data. Instead of sending data into the server to train, the model from the server is sent to each device.
 
 ![Federated ML](/assets/img/genmlfedml.png)
-The difference between centralized ML and Federated Learning
+
 
 
 So, How could the ML model learns the data?
@@ -40,13 +39,12 @@ Google Colaboratory
 Moreover, Google developed Gboard typing based on learning the data that is typed by users so that a few sentences can be used to predict the complete address available on google maps. You can see the visualization as follow. This prediction is without sending the data into the server first to get a better prediction but the machine learning model has learned the data to predict it. This is really a breakthrough in maintaining data privacy.
 
 ![Federated ML](/assets/img/googleml.gif)
-Gboard Implementation on Federated Learning
+
 
 ### Federated Learning in Math
 
 ![Federated Work in Math](/assets/img/mlwork.jpg)
 
-Math in Federated Learning
 
 Federated Learning does train the data on each device and aggregates the results to update the global model by using optimizers like SGD or Adam optimizer (in the case of Neural Network to reach convergence) where the updated parameters/weights will be used again to train the data on each device. This process is repeated again and again to improve the metrics based on problems.
 
