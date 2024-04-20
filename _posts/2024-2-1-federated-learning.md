@@ -18,7 +18,7 @@ Big data has become ubiquitous, as every action we undertake generates data that
 
 ![Federated ML](/assets/img/federatedml.jpg)  
 
-<div style="text-align: center;" markdown="1"> image is via Tianchen Liu on Federated Learning Process</div>
+image is via Tianchen Liu on Federated Learning Process
 
 ## Introduction to Federated Learning
 
@@ -26,7 +26,7 @@ In a traditional way of training machine learning model, we are hosting the data
 
 ![Federated ML](/assets/img/genmlfedml.png)
 
-<div style="text-align: center;" markdown="1"> The difference between centralized ML and Federated Learning</div>
+The difference between centralized ML and Federated Learning
 
 So, How could the ML model learns the data?
 
@@ -44,13 +44,13 @@ Moreover, Google developed Gboard typing based on learning the data that is type
 
 ![Federated ML](/assets/img/googleml.gif)
 
-<div style="text-align: center;" markdown="1"> Gboard Implementation on Federated Learning</div>
+Gboard Implementation on Federated Learning
 
 ### Federated Learning in Math
 
 ![Federated Work in Math](/assets/img/mlwork.jpg)
 
-<div style="text-align: center;" markdown="1"> Math in Federated Learning</div>
+Math in Federated Learning
 
 Federated Learning does train the data on each device and aggregates the results to update the global model by using optimizers like SGD or Adam optimizer (in the case of Neural Network to reach convergence) where the updated parameters/weights will be used again to train the data on each device. This process is repeated again and again to improve the metrics based on problems.
 
