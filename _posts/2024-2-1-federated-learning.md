@@ -4,9 +4,9 @@ title: Improving Machine Learning lifecycle to preserve data privacy
 subtitle: How Federated Learning preserves data privacy
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
-cover-img: /assets/img/mlwork.jpg
-thumbnail-img: /assets/img/mlwork.jpg 
-share-img: /assets/img/mlwork.jpg
+cover-img: /assets/img/serverml.gif
+thumbnail-img: /assets/img/serverml.gif
+share-img: /assets/img/serverml.gif
 tags: [machine learning,federated learning]
 comments: true
 mathjax: true
@@ -14,7 +14,7 @@ mathjax: true
 
 
 
-Big data has been everywhere. Any activities we do yield data that can be extracted into something insigtful. For instance, we can improve our health management activities based on our sports activities tracked on our smartphones or we can type faster in the case of text generation while texting on our smartphones as well. These data or queries are one of many factors that need to preserve while we want to use them for machine learning use cases aforementioned. Data Privacy has been a big issue for big tech companies lately. There is a concern related to how big tech companies collect and use the data. For the purpose of this problem, there is a continuously developed framework that would be able to preserve data privacy while maintaining a machine learning model called Federated Learning.
+Big data has become ubiquitous, as every action we undertake generates data that holds the potential for valuable insights. For instance, we can improve our health management activities based on our sports activities tracked on our smartphones or we can type faster in the case of text generation while texting on our smartphones as well. These data or queries are one of many factors that need to preserve while we want to use them for machine learning use cases aforementioned. Data Privacy has been a big issue for big tech companies lately. There is a concern related to how big tech companies collect and use the data. For the purpose of this problem, there is a continuously developed framework that would be able to preserve data privacy while maintaining a machine learning model called Federated Learning.
 
 [Federated ML](/assets/img/federatedml.jpg)
 
