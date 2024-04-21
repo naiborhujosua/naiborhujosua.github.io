@@ -25,7 +25,7 @@ In a traditional way of training machine learning model, we are hosting the data
 ![Federated ML](/assets/img/genmlfedml.png)
 
 
-
+{: .box-note}
 So, How could the ML model learns the data?
 ![source is via Cloudera blog](/assets/img/serverml.gif) 
 
