@@ -12,7 +12,7 @@ comments: true
 mathjax: true
 ---
 
-Data Visualization has been playing an important part in understanding data in any projects of Data Science. The way we present our visualization will determine how the audience will understand easier about the data that we would like to present. A famous idiom that often comes to my mind when talking about data visualization is
+Data Visualization has been playing an important part in understanding data in any data science projects. The way we present our visualization will determine how the audience will comprehend the data that we would like to present. A famous idiom that often comes to my mind when talking about data visualization is
 
 {: .box-note}
 “A picture is worth a thousand word”
