@@ -12,14 +12,14 @@ comments: true
 mathjax: true
 ---
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/hR0qj3ncK7M028EzOS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/map-united-states-us-hR0qj3ncK7M028EzOS">via GIPHY</a></p>
-
 Data Visualization has been playing an important part in understanding data in any projects of Data Science. The way we present our visualization will determine how the audience will understand easier about the data that we would like to present. A famous idiom that often comes to my mind when talking about data visualization is
 
 {: .box-note}
 “A picture is worth a thousand word”
 
 — Fred R. Barnard
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/hR0qj3ncK7M028EzOS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/map-united-states-us-hR0qj3ncK7M028EzOS">via GIPHY</a></p>
 
 It is obvious that a picture will tell various stories that can make us able to understand the data. Without a proper picture, It is quite hard to explain things in a proper manner. It is always a good idea to put a good visualization when explaining data. Hence, I will give a few data visualization plots by using Matplotlib and Seaborn that will WOW your partners or clients when presenting data in a simple yet professional way. For the purpose of making the visualization, I used the Seoul Bike Sharing Demand DataSet that can be downloaded in UCI Machine Learning Repository. It consists of 8760 observations and 14 features. You can take a look at the notebook provided to know more about it.
 
