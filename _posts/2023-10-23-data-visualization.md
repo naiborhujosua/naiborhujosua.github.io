@@ -5,8 +5,8 @@ subtitle: Visualize a much better plot using Matplotlib and Seaborn
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
 cover-img: /assets/img/thumb.JPG
-thumbnail-img: /assets/img/scatter.JPG 
-share-img: /assets/img/scatter.JPG
+thumbnail-img: /assets/img/dsthumb.JPG
+share-img: /assets/img/dsthumb.JPG
 tags: [data visualization,matplotlib,seaborn]
 comments: true
 mathjax: true
