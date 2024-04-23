@@ -4,7 +4,7 @@ title: Leveraging the Potential of Explainable AI (XAI) to Address Your Company'
 subtitle: a method to interpret your black box models
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
-cover-img: /assets/img/thumb.JPG
+cover-img: /assets/img/shap.JPG 
 thumbnail-img: /assets/img/shap.JPG  
 share-img: /assets/img/shap.JPG
 tags: [shap,method,xai]
