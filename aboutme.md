@@ -15,8 +15,9 @@ On top of that, I enjoy spending my leisure time reading books and running. I ha
 To get in touch with me, you can send an e-mail to <naiborhujosua@alumni.ui.ac.id>. I also use Telegram, feel free to ask me for my number if that’s your favorite communication method. I also love to give feedback on any technical issues of the entire Machine Learning Lifecycle.
 
 {: .box-note}
-#### Cite My Content 📝
-© Josua Naiborhu, 2023-2024. These posts are meant to be used for educational purposes. Excerpts and links from this site may be used, provided that full and clear credit is given to Josua Naiborhu with appropriate and specific direction to the original content.
+#### Citation 📝
+© Josua Naiborhu, 2023-2024. 
+If you use this document or any part of it, please acknowledge the source, thank you!
 
 {: .box-note}
 #### Note 👇
