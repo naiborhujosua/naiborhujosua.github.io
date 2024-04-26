@@ -49,3 +49,10 @@ Read it, buy it.
 
 Thank you for reading!
 I really appreciate it! 🤗 If you liked the post and would like to see more, consider following me. I post topics related to machine learning and deep learning. I try to keep my posts simple but precise, always providing visualization, and simulations.
+
+Did you like the article? Your support is important
+
+Website maintenance has high cost, your contribution will help me to continue generating free educational content. Many thanks! 😊
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/naiborhujosua)
+
