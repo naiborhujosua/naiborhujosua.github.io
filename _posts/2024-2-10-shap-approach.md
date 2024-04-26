@@ -123,8 +123,6 @@ Thank you for reading!
 I really appreciate it 🤗. I post machine learning and deep learning- related topics. I try to keep my posts simple but precise, always providing visualization, and simulations.
 
 
-Leveraging the Potential of Explainable AI (XAI) to Address Your Company's Challenges © 2024 by Josua Naiborhu is licensed under (https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)[CC BY-NC 4.0]
-
 
 
 
