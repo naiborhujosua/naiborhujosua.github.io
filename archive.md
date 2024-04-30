@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Archives
 subtitle: List of archived articles
 ---
 
