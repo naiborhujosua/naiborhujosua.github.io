@@ -142,14 +142,15 @@ keywords: "machinelearning,deeplearning,learningloopservices,mlops"
 # #00d9ff blue #67e1ff  #def8ff
 # #2e2e2a
 # #777777
-navbar-col: "#5ab9ff"
+#"#5ab9ff young blue
+navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#5ab9ff"
+footer-col: "#EAEAEA"
 footer-text-col: "#121111"  
 footer-link-col: "#2e2e2a"
 footer-hover-col: "#0085A1"
