@@ -160,6 +160,8 @@ Project Management on AI
 {: .box-note}
 Data Visualization
 <p> Streamlit for Data Science - 2nd Edition  by <b> <bold> Tyler Richards </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Packt </a></p>
+<p> Web App Development Made Simple with Streamlit: A web developer's guide to effortless web app development, deployment, and scalability  by <b> <bold> Rosario Moscato </bold></b> on <a href="https://www.amazon.com/Web-Development-Made-Simple-Streamlit/dp/1835086314/ref=sr_1_2?crid=FBDDZ6T09TQC&dib=eyJ2IjoiMSJ9.uVSe9i4hb9DPLNTQTqwqK4ZE-x9P3M7y0E8hZR8QOxi6NCZPCOReUKYMEEmLuzqcdQSIVqju4iwQTVP8X09bPXr9n43vawAwLVf0aTeYsh6kEibA6HNu4ilQPYcMpuQZoKp6oQyEgz2JemGArtz9R5chOwRkx3lKRldA3B5HKl8fcNDFwqUKRRLLj4W0EAIZjGIIpVP-OmqU0TtfplrK6dD8GhZO_etImzx_IPpn_tw.gj-ypkBXbgH-YUVDy05kb_BFdPgtRnfiSd71lL4dGsw&dib_tag=se&keywords=streamlit&qid=1715010904&s=books&sprefix=streaml%2Cstripbooks-intl-ship%2C403&sr=1-2"> Packt </a></p>
+
 
 
 {: .box-note}
