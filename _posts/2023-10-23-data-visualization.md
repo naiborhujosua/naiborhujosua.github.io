@@ -83,7 +83,7 @@ A Time Series plot with Error Band is used to visualize multiple observations am
 ## Parallel Coordinates
 
 ![Scatter Plot](/assets/img/parralelcoordinate.JPG)
-Parallel Coordinates is still a new plot for me. I find this plot quite interesting to find patterns among all the data to check whether there is a cluster among the data. You can implement Parallel Coordinate by using pandas as coded in the given notebook. You can see most of the data from the Rented Bike Count feature is from Autumn. On Wind Speed and Visibility, we see a similar pattern where most of the data are from Autumn.
+Parallel Coordinates is still a new plot for me. I find this plot quite interesting to uncover patterns among all the data to check whether there is a cluster among the data. You can implement Parallel Coordinate by using pandas as coded in the given notebook. You can see most of the data from the Rented Bike Count feature is from Autumn. On Wind Speed and Visibility, we see a similar pattern where most of the data are from Autumn.
 
 ## Conclusions
 Making great Visualization using Matplotlib and Seaborn is not a problem anymore. You can see how I can visualize various plots using these libraries. Again, you can check the full code of this visualization by looking at the code here. You can tweak based on the needs of the data available for you. Most importantly, the choice of visualization will determine how we can make our audience understand the data better in a visual way. You can see based on some plots that we have summarized, It is essential to plot the data in a proper way. The better we visualize the data, the better the audience will be able to catch our intent of the data.
