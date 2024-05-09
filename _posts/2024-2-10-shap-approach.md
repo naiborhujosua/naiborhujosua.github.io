@@ -17,7 +17,7 @@ Developing machine learning applications require numerous steps. Gathering the d
 
 Imagine if you are using a neural network model with complex features for developing your machine learning application, Will the nontechnical businesspeople trust your model prediction? Absolutely no. It is likely to be a big problem for the  stakeholders to speed up the business processes using machine learning due to the intricacy of the models. Thus, the ability to interpret the model is essential knowledge to know for making nontechnical businesspeople to trust our machine learning model when making a specific prediction on the data.
 
-Shap (Shapley Additive exPlanations) is one of the most of Explainable Artificial Intelligence(XAI) tools to interpret why machine learning models make a specific prediction on the data instances. Shapley Additive exPlanations uses shap value in order to explain the prediction made by machine learning model. Shap value is based on the game theory approach to making a prediction.
+Shap (Shapley Additive exPlanations) is one of the most of Explainable Artificial Intelligence(XAI) tools to interpret why machine learning models make a specific prediction on the data instances. Shapley Additive exPlanations employs shap value in order to explain the prediction made by machine learning model. Shap value is based on the game theory approach to making a prediction.
 
 Imagine you are participating in a machine learning hackathon with your team that consists of 4 members. Everyone has their own unique abilities in order to approach the problem given in the hackathon. If your team won the hackathon, how would you decide on the fair payout for the particular member of the contribution given by a particular member.
 
@@ -35,7 +35,7 @@ You can take a look at the implementation in this [notebook for your reference](
 
 ## Interpreting Result
 
-The first thing we need to do before interpreting the result is to train our machine learning model on the training data. On this dataset, we use XGBoostClassifier for solving this classification problem to look into the customers who churn or not as shown in the following code.
+The first thing we need to do before interpreting the result is to train our machine learning model on the training data. On this dataset, we employ XGBoostClassifier for solving this classification problem to look into the customers who churn or not as shown in the following code.
 
 ```python
 model = XGBClassifier(n_estimators = 50, random_state = 42)
@@ -68,7 +68,7 @@ Shap framework has the ability to interpret the data based on 2 approaches namel
 
 ![GLobal Interpretability](/assets/img/1.JPG)
 
-The preceding barplot shows how each feature impacts the prediction we make on training data based on the machine learning model we use. We can see Contract feature has the most significant influence on predicting the target outcome followed by MonthlyCharges and tenure.
+The preceding barplot shows how each feature impacts the prediction we make on training data based on the machine learning model we employ. We can see Contract feature has the most significant influence on predicting the target outcome followed by MonthlyCharges and tenure.
 
 ## Global interpretability with heatmap plots
 
