@@ -192,7 +192,7 @@ mobile-theme-col: "#0085A1"
 matomo:
   site_id: "1"
   uri: "demo.wiki.pro"
-  opt-out: true
+  opt-out: false
 
 # Google Universal Analytics ID -- deprecated
 # As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
