@@ -24,7 +24,7 @@ navbar-links:
   Consultation: "https://calendly.com/naiborhujosua/60min?month=2024-05"
   Resources:
     - Bookshelves: "bookshelves"
-     - Archives: "archive"
+    - Archives: "archive"
     - Talks: "talks"
     - Hack Day: "hackathon"
    
