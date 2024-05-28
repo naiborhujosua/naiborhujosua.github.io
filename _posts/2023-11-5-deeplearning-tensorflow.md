@@ -5,8 +5,8 @@ subtitle: How can you classify the type of mosquito on the human skin by using T
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
 cover-img: /assets/img/thumb.JPG 
-thumbnail-img: /assets/img/deeplearning.gif 
-share-img: /assets/img/deeplearning.gif 
+thumbnail-img: /assets/img/deeplearningclass.gif
+share-img: /assets/img/deeplearningclass.gif 
 tags: [deep learning,tensorflow,transfer learning]
 comments: true
 mathjax: true
