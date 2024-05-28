@@ -27,8 +27,9 @@ medium.com
 
 In this experimentation, you will classify the type of mosquito on human skin on the multiclassification problem. There are 6 classes of mosquito namely albopictus landing, albopictus smashed, aegypty landing, aegypty smashed, culex landing, and culex smashed as shown in the following images.
 
-
+![6 classes of mosquito types](/assets/img/cattypes.JPG)
 6 classes of mosquito types
+
 ```python
 # Dataset split
 train_dir = "/content/zw4p9kj6nt-2/data_splitting/Train/"
@@ -107,6 +108,7 @@ history_2 = model_2.fit(train_data,
 
 I tried a lot of experiments on this dataset from carrying out CNN from scratch using TensorFlow, tuning hyperparameters, trying out various transfer learning models, and finding EffiecientNetB0 with hyperparameter tuning has been giving a better accuracy(~90%) as shown on the code above. I use tf.keras.application to download EfficientNetB0 to be used for training our specific dataset in this case our mosquito on human skin. You can see how easy to implement transfer learning using Tensorflow. You can see the model architecture of EfficientNetB0 which is developed by Google in the paper for more details. Based on my experiences competing in the Kaggle competition, I often see people use EfficientNet as a Backbone/baseline for computer vision competition. It is like XGBoost for tabular data competition if you are quite familiar with the competition in Kaggle. In the following EfficientNetB0 model architecture where we have input data of its size 224*224(we preprocess and suit our data). Again, because transfer learning model architecture is beyond the scope of making this article, I consider reading the paper is a better way to understand the model architecture as shown in the following
 
+![6 classes of mosquito types](/assets/img/tranferlearning.JPG)
 
 EfficientNetB0 model architecture
 You can see with just a few lines of code you can implement EfficientNetB0 with data that has been preprocessed based on the model architectures. One essential takeaway is that we add one hidden layer for getting output using the softmax activation function to get the predicted probability of the images. The largest predicted probability will be the prediction based on the 6 classes of mosquito type on each image tested on our trained model. You can see it on my Kaggle notebook
@@ -117,7 +119,7 @@ www.kaggle.com
 
 where I tried out various preprocessing data like data augmentation and transfer learning model architecture or CNN from scratch using Tensorflow. You will see how transfer learning with hyperparameter tuning outperforms the CNN model carried out from scratch. CNN model just gave around 70% compared to 90% of using transfer learning. One important thing to note is to use all the outputs based on the data used on the transfer learning model architecture or suit based on our specific task. In this case, you are going to choose 6 classes as output rather than using all outputs on EfficientNetB0. We do this by changing the parameter include_top=False when making the base_model instance and changing the output into 6 classes and using the softmax activation function. Then, we compile the model and choose the loss function and Adam Optimization for helping gradient descent converge faster. In many implementations of deep learning models when fitting into the data, most deep learning practitioners often use Adam Optimization because it can change the learning rate to converge to reach a global minimum. After fitting the data and finishing the training process, you can plot for comparing the loss and accuracy of train and validation data. It is shown in the following plots where the loss decrease as the epochs reach 10 epochs and the accuracy increase as the epochs reach 10 epochs to around 90%.
 
-
+![6 classes of mosquito types](/assets/img/cattypes.JPG)
 
 The Comparison of Loss and Accuracy on training(TRAIN) and validation data(PRED)
 You can visualize how effective our trained model is by comparing the ground truth and predicted classes as shown in the images below. You can see from these 3 test images, we predicted them correctly with predicted probability shown as an annotation in understanding it better.
@@ -150,7 +152,7 @@ for i in range(3):
     plt.axis(False);
 ```
 Code for comparing test images and ground truth labels
-
+![6 classes of mosquito types](/assets/img/predictex.JPG)
 The comparison between Ground truth and prediction classes
 You can see on the first image of our comparison between ground truth and predicted classes where the ground truth is culex smashed and our predicted class is also culex smashed. It is similar to aegypty landing as ground truth and predicted classes on the second image and third one.
 
@@ -174,14 +176,14 @@ In addition to that, you can see the visualization of how effective our accuracy
 
 
 Confusion matrix for multiclass classification
-
+![6 classes of mosquito types](/assets/img/conmatrix.JPG)
 Confusion Matrix
 The X-axis shows the predicted labels and the y-axis shows the ground truth. The darker the diagonal part of this table, the better score we get as shown in the image above where we get fewer labels misclassified from our 90 % accuracy score. You can also see how we code the confusion matrix on the notebook for further details.
 
 ### TensorBoard Dev
 Tracking our machine learning model is a good way to monitor the performance of our model. You can see on the image as follows where we track our accuracy score on various deep learning models and upload it to tensorboarddev. This is one of the advantages of using Tensorflow where we can track our trained model and share it publicly. You can check the first part of 2 parts where I explained tensorboard and how to upload your evaluation metrics score to tensordboard.dev. you can track the graph by visiting this tensorboard.dev
 
-
+![6 classes of mosquito types](/assets/img/tensorboard.JPG)
 Monitoring accuracy on training and validation dataset in tensorboard dev
 ### Conclusion
 Image Classification is the most used in many sectors for identifying the taxonomy of animals, medical imaging, logistics, automotive, etc. It is used in many use cases where we identify particular images and predict the labels of particular images. You can see in our experiments where we predict the type of mosquito using Tensorflow. Having a piece of good knowledge of classifying images is a good thing for deep learning practitioners for making an impact on society.
