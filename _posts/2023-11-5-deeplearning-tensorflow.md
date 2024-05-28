@@ -15,15 +15,11 @@ mathjax: true
 
 Identifying types of insects can benefit humans. You can identify types of butterflies that can help the reproduction of plants faster, and identify other insects for knowing whether it is a dangerous types of insects. By knowing this, you will be able to see how they live and interact with specific types of insects. For instance, you do not want to hurt insects that can eat pests in your garden, and many more examples that you can get by identifying types of insects. Yet, one question comes to mind,
 
+{: .box-note}
 Have you ever thought to classify insects using technology? Is it possible to do?
-
 Absolutely, It is really possible to do. You are going to classify types of mosquitoes on human skin by using TensorFlow.
 
 By carrying out a deep learning model based on the data available, you can identify each type of insect and determine the species composition of mosquito fauna at a given place and time for longer research. This is essential for the research or something useful for future purposes whether it is new knowledge for the textbook to consume or for someone who is going to research it as a reference. Moreover, you can understand the type of pest for a specific type of mosquito. Before delving deeper into this experimentation, I recommend reading part 1 of 2 where I explained fundamental things about solving image data problems using Tensorflow and what you need to know to successfully implement it.
-
-Your Tensorflow Pocket References on Image Data Task
-How can you build Deep Learning Models using Tensorflow for Image Data Task?
-medium.com
 
 In this experimentation, you will classify the type of mosquito on human skin on the multiclassification problem. There are 6 classes of mosquito namely albopictus landing, albopictus smashed, aegypty landing, aegypty smashed, culex landing, and culex smashed as shown in the following images.
 
