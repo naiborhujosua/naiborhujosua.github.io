@@ -158,11 +158,7 @@ sklearn_accuracy
 ```
 
 Accuracy Score implementation on Scikit-learn
-With this code, we compare our ground truth or y_labels with the prediction (the largest predicted probability in test data ). The higher the score, the better accuracy we get. In this experiment after tuning a few hyperparameters like learning rate, how many epochs to run, and trying out Early Stoping, we get around a 90% accuracy score. You can check the code in the notebook.
-
-Mosquito on human skin image classification on nbviewer
-Check out this Jupyter notebook!
-nbviewer.org
+With this code, we compare our ground truth or y_labels with the prediction (the largest predicted probability in test data ). The higher the score, the better accuracy we get. In this experiment after tuning a few hyperparameters like learning rate, how many epochs to run, and trying out Early Stoping, we get around a 90% accuracy score. You can check the code in the [notebook](https://www.kaggle.com/code/naiborhujosua/mosquito-in-human-skin).
 
 In addition to that, you can see the visualization of how effective our accuracy score is by visualizing the predicted label and the ground truth on the confusion matrix table in the following images
 
@@ -170,14 +166,18 @@ In addition to that, you can see the visualization of how effective our accuracy
 Confusion matrix for multiclass classification
 ![6 classes of mosquito types](/assets/img/conmatrix.JPG)
 Confusion Matrix
+
 The X-axis shows the predicted labels and the y-axis shows the ground truth. The darker the diagonal part of this table, the better score we get as shown in the image above where we get fewer labels misclassified from our 90 % accuracy score. You can also see how we code the confusion matrix on the notebook for further details.
 
 ### TensorBoard Dev
+
 Tracking our machine learning model is a good way to monitor the performance of our model. You can see on the image as follows where we track our accuracy score on various deep learning models and upload it to tensorboarddev. This is one of the advantages of using Tensorflow where we can track our trained model and share it publicly. You can check the first part of 2 parts where I explained tensorboard and how to upload your evaluation metrics score to tensordboard.dev. you can track the graph by visiting this tensorboard.dev
 
 ![6 classes of mosquito types](/assets/img/tensorboard.JPG)
 Monitoring accuracy on training and validation dataset in tensorboard dev
+
 ### Conclusion
+
 Image Classification is the most used in many sectors for identifying the taxonomy of animals, medical imaging, logistics, automotive, etc. It is used in many use cases where we identify particular images and predict the labels of particular images. You can see in our experiments where we predict the type of mosquito using Tensorflow. Having a piece of good knowledge of classifying images is a good thing for deep learning practitioners for making an impact on society.
 
 References
