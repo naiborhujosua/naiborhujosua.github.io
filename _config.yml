@@ -57,7 +57,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "consult@naiborhujosua.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  
   #facebook: deanattali
  # github: naiborhujosua
   #twitter: daattali
@@ -67,6 +67,7 @@ social-network-links:
  # medium: naiborhujosua
 #  reddit: yourname
   linkedin: josuanaiborhu
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
