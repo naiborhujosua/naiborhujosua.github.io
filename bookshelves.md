@@ -142,7 +142,7 @@ Soft skills
 - <p> The Coder's Path to Wealth and Independence by <b> <bold> Mark Beckner </bold></b> on <a href="https://www.amazon.com/Coders-Path-Wealth-Independence/dp/1484204220"> Amazon </a></p>
 - <p> From Deep Learning to Rational Machines: What the History of Philosophy Can Teach Us about the Future of Artificial Intelligence  by <b> <bold> Cameron J. Buckner </bold></b> on <a href="https://www.amazon.com/Deep-Learning-Rational-Machines-Intelligence-ebook/dp/B0CL9JBSD8/?_encoding=UTF8&pd_rd_w=CwTD5&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=139-3599125-0496544&pd_rd_wg=sDohd&pd_rd_r=c715b836-0f39-488e-8e60-b9b08934baa8&ref_=aufs_ap_sc_dsk"> Amazon </a></p>
 - <p> by <b> <bold> Bogdan Vaida </bold></b> on <a href="https://www.amazon.com/Zero-Hero-Cryptocurrency-Trading-centralized/dp/183763128X"> Amazon </a></p>
- 
+ - <p> Elon Musk by <b><bold> Walter Isaacson</bold> </b> on <a href="https://www.amazon.com/Elon-Musk-Walter-Isaacson-ebook/dp/B0BW9TRGKV/ref=sr_1_1?crid=27YUNGK13PS5Z&dib=eyJ2IjoiMSJ9.5NB32a37A5nPyBaGn4c2YpDG8_Tbds-JYZzPNJsB79zL850VkbMmZ6uoRmzUN_WD8UTeXkh6Mroef04_qqnvo58wFDCMIfK-ByBdUx9Tsoe91i9MaznccdFnORrw4LalW_cq1iFCrHPOyj5FrtIrKt7RLjsbaA0yQS_Zh_xrImkPKAZy3Z04Eyd6a5Wx8nHbH3YWETu3BwVFbbIGnsuyoIviVn3KH5py1ht7O5VGFU0.HVODttLuebGIX0Kc7AOcWfPlmBWr49yER4YGqujrK74&dib_tag=se&keywords=elon+musk&qid=1717738439&s=digital-text&sprefix=elon+musk%2Cdigital-text%2C358&sr=1-1"> Amazon </a></p>
   
 <br><br>
 
