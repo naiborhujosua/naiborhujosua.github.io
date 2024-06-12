@@ -49,7 +49,7 @@ Federated Learning does train the data on each device and aggregates the results
 
 ## Conclusion
 
-Federated learning has been a good idea to be carried out in various machine learning projects. The idea of preserving data privacy can ensure the ease of machine learning projects in broader industries such as medicine, logistics, telecommunication, and insurance. I also see a few frameworks available to implement federated learning which means the existence of this framework will bring a brighter future for developing machine learning applications while also maintaining data privacy. If you browse through GitHub focusing on topics related to federated learning, you will uncover numerous stars awarded to this project.
+Federated learning has been a good idea to be carried out in various machine learning projects. The idea of preserving data privacy can ensure the ease of machine learning projects in broader industries such as medicine, logistics, telecommunication, and insurance. I also see a handful of frameworks available to implement federated learning which means the existence of this framework will bring a brighter future for developing machine learning applications while also maintaining data privacy. If you browse through GitHub focusing on topics related to federated learning, you will uncover numerous stars awarded to this project.
 
 References :
 
