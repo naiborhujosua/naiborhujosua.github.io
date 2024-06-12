@@ -80,7 +80,7 @@ The heatmap shows the impact of all features on the model. We can see the increa
 
 ![GLobal Interpretability](/assets/img/3.JPG)
 
-This plot shows that feature tenure and TotalCharges form a group and OnlineSecurity and Multiplines form another group. This process is then called hierarchical clustering. This graph also shows how a few features have some interaction based on the subgroup and it could be a feature that we can detect in our EDA for further analysis.
+This plot shows that feature tenure and TotalCharges form a group and OnlineSecurity and Multiplines form another group. This process is then called hierarchical clustering. This graph also shows how a handful of features have some interaction based on the subgroup and it could be a feature that we can detect in our EDA for further analysis.
 
 ## Global interpretability with SHAP summary plots
 
