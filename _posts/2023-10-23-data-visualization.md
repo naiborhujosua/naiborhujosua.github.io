@@ -19,7 +19,7 @@ Data Visualization has been playing an important part in understanding data in a
 
 — Fred R. Barnard
 
-It is obvious that a picture will tell various stories that can prompt us able to understand the data. Without a proper picture, It is quite hard to explain things in a proper manner. It is always a good idea to put a good visualization when explaining data. Hence, I will give a few data visualization plots by using Matplotlib and Seaborn that will WOW your partners or clients when presenting data in a simple yet professional way. For the purpose of making the visualization, I used the Seoul Bike Sharing Demand DataSet that can be downloaded in UCI Machine Learning Repository. It consists of 8760 observations and 14 features. You can take a look at the notebook provided to know more about it.
+It is obvious that a picture will tell various stories that can prompt us able to understand the data. Without a proper picture, It is quite hard to explain things in a proper manner. It is always a good idea to put a good visualization when explaining data. Hence, I will give a handful of data visualization plots by using Matplotlib and Seaborn that will WOW your partners or clients when presenting data in a simple yet professional way. For the purpose of making the visualization, I used the Seoul Bike Sharing Demand DataSet that can be downloaded in UCI Machine Learning Repository. It consists of 8760 observations and 14 features. You can take a look at the notebook provided to know more about it.
 
 ## Scatter Plot
 
@@ -36,7 +36,7 @@ Bubble Plot with encircling is one of the most useful plots that I find quite in
 ## Marginal Histogram
 
 ![Scatter Plot](/assets/img/marginal.JPG)
-A marginal Histogram has been considered to show the correlation among all features that we have in data frame/CSV files. We can plot all correlations by carrying out a seaborn method that can plot all the correlations among features. The drawback of this type of visualization is that we have many features. It will create a lot of correlations plots that are not a good idea to be carried out. It is better to use visualization when we have only a few variables that can map into a better visualization. You can see in the code where I merely put a few features to be visualized in order to avoid a lot of plots. Sometimes, it is better to visualize between variables that we are interested in rather than plotting all correlations among them.
+A marginal Histogram has been considered to show the correlation among all features that we have in data frame/CSV files. We can plot all correlations by carrying out a seaborn method that can plot all the correlations among features. The drawback of this type of visualization is that we have many features. It will create a lot of correlations plots that are not a good idea to be carried out. It is better to use visualization when we have only a handful of variables that can map into a better visualization. You can see in the code where I merely put a few   features to be visualized in order to avoid a lot of plots. Sometimes, it is better to visualize between variables that we are interested in rather than plotting all correlations among them.
 
 ## Time Series Plot
 
@@ -46,7 +46,7 @@ Time Series Data is everywhere. The way to plot it is essential in order to get 
 ## Order Bar Chart
 
 ![Scatter Plot](/assets/img/bar chart.JPG)
-A bar chart is one of my favorite plots when I want to rank the data between categorical and numerical features. The usual way to plot a bar chart in matplotlib is not quite interesting. We have to think creatively in order to change the visualization by using a few methods available in matplotlib. You can check where I use the patches module available in matplotlib to change the bar size and annotate the bar size based on the rented bike count for each season. You can check the code again whenever you would like to implement this type of visualization. Based off the visualization above shows where summer has the most used bike.
+A bar chart is one of my favorite plots when I want to rank the data between categorical and numerical features. The usual way to plot a bar chart in matplotlib is not quite interesting. We have to think creatively in order to change the visualization by using a handful of methods available in matplotlib. You can check where I use the patches module available in matplotlib to change the bar size and annotate the bar size based on the rented bike count for each season. You can check the code again whenever you would like to implement this type of visualization. Based off the visualization above shows where summer has the most used bike.
 
 ## Lolipop Bar Chart
 
@@ -67,7 +67,7 @@ Density Plot with Curves brings together collective information by two plots so 
 ## Box Plot
 
 ![Scatter Plot](/assets/img/boxplot.JPG)
-Box plot is used to know the spread of our data. We usually use a boxplot to compare categorical features and numerical data. The Box plot is divided into a few parts namely the middle part(mean), lower quartile, upper quartile, and outliers. Outliers are data that are outside of the lower quartile and upper quartile. You can check here for further explanations. In the Box plot, It is a good idea to annotate the observations to catch a better visualization for the audience as you can see in the plot above. You can see that there are 2184 observations during Winter.
+Box plot is used to know the spread of our data. We usually use a boxplot to compare categorical features and numerical data. The Box plot is divided into a few    parts namely the middle part(mean), lower quartile, upper quartile, and outliers. Outliers are data that are outside of the lower quartile and upper quartile. You can check here for further explanations. In the Box plot, It is a good idea to annotate the observations to catch a better visualization for the audience as you can see in the plot above. You can see that there are 2184 observations during Winter.
 
 ## Pie Chart
 
