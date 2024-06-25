@@ -6,6 +6,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 Technical Reads
 
 - <p> An Introduction to Statistical Learning with Applications in Python by <b> <bold>Gareth James </bold></b> on <a href="https://www.statlearning.com/"> statlearning.com </a></p>
+- <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
 - <p>Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning by <b> <bold> Alex J. Gutman </bold></b> on <a href="https://www.amazon.com/dp/B092TSVZJ8/?_encoding=UTF8&pd_rd_w=Rgjgm&pf_rd_p=11d4200f-d61a-43c8-8a63-c7ba2a249ce2&pf_rd_r=1G62KPAT2HN27QY33VFD&pd_rd_wg=bORIV&pd_rd_r=cda9c4ab-57af-4257-b085-02535e779364&content-id=amzn1.sym.11d4200f-d61a-43c8-8a63-c7ba2a249ce2&ref_=bd_tags_dp_rec"> Amazon</a></p>
 - <p>Causal Inference: The Mixtape by <b> <bold> Scott Cunningham </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Mixtape-Scott-Cunningham/dp/0300251688"> Amazon</a></p>
 - <p>Data Science: The Hard Parts: Techniques for Excelling at Data Science by <b> <bold> Daniel Vaughan </bold></b> on <a href="https://www.amazon.com/Data-Science-Parts-Techniques-Excelling/dp/1098146476"> Amazon</a></p>
