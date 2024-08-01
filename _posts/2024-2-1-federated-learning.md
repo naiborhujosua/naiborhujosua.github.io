@@ -4,7 +4,6 @@ title: Improving Machine Learning lifecycle to preserve data privacy
 subtitle: How Federated Learning preserves data privacy
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
-thumbnail-img: /assets/img/serverml.gif
 share-img: /assets/img/serverml.gif
 tags: [machine learning,federated learning]
 comments: true
