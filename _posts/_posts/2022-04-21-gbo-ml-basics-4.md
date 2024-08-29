@@ -1,12 +1,7 @@
 ---
 layout: post
-title: My key takeaways of reading Trustworthy Online Controlled Experiments Book
-subtitle: A/B testing made easy
-gh-repo: naiborhujosua/Blog_Notes
-gh-badge: [star, follow]
-share-img: /assets/img/abtest.jpg
-tags: [a/b testing]
-comments: true
+title: "GBO notes: Machine learning basics (Part 4)"
+tags: ["gbo", "ml-basics"]
 mathjax: true
 ---
 
