@@ -59,14 +59,14 @@ social-network-links:
   email: "consult@naiborhujosua.com"
   
   #facebook: deanattali
-  github: naiborhujosua
+  #github: naiborhujosua
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: "@daattali"
  # whatsapp: 15551212
  # medium: naiborhujosua
 #  reddit: yourname
-  linkedin: josuanaiborhu
+  
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -79,6 +79,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
   calendly: "naiborhujosua/60min?month=2024-08"
+  linkedin: josuanaiborhu
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
