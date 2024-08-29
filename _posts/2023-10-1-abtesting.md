@@ -1,6 +1,6 @@
 ---
 layout: post
-
+title: My key takeaways of reading Trustworthy Online Controlled Experiments Book
 subtitle: A/B testing made easy
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
@@ -11,7 +11,7 @@ mathjax: true
 ---
 
 This article delves into the practice of A/B testing. I assume that the reader comprehend the building blocks of statistics such as control and treatment, p-values, confidence interval, statistical significance, practical significance, randomization, sample, and population in order to get the idea of A/B testing. You can get the fundamental statistics by looking at this video.
-title: My key takeaways of reading Trustworthy Online Controlled Experiments Book
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bGdTr7yJbNs?si=nV0JGz4n_9xGrTN-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
