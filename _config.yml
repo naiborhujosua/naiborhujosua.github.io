@@ -67,7 +67,7 @@ social-network-links:
  # medium: naiborhujosua
 #  reddit: yourname
   linkedin: josuanaiborhu
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -84,14 +84,14 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-  kaggle: naiborhujosua
+  #kaggle: naiborhujosua
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
