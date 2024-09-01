@@ -211,6 +211,9 @@ mobile-theme-col: "#0085A1"
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 disqus: "naiborhujosua"
 
+url-pretty: "❤ Support"
+url-canonical: https://github.com/sponsors/naiborhujosua
+
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
 
