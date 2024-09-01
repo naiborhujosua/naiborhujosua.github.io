@@ -284,47 +284,88 @@ paginate: 4
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
+
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: ''
+      type: posts
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
+      layout: post
+      comments: true
+      social-share: true
+  - scope:
+      path: ''
     values:
-      layout: "page"
-  
-  -
-    scope:
-      path: "notblog"
+      layout: page
+  - scope:
+      path: notblog
     values:
-      layout: "post"
+      layout: post
       carbonads: true
       comments: true
       social-share: true
       show-share: true
       show-subscribe: true
       support_promo_box: true
-      after-content: [share-section.html, scroll-box.html]
-  -
-    scope:
-      path: "pages"
+      after-content:
+        - share-section.html
+        - scroll-box.html
+  - scope:
+      path: pages
     values:
-      layout: "page"
+      layout: page
       comments: true
-  -
-    scope:
-      path: ""
+  - scope:
+      path: ''
     values:
-      layout: "page"
-      before-content: [support_promo_box.html, carbonads.html]
+      layout: page
+      before-content:
+        - support_promo_box.html
+        - carbonads.html
       footer-extra: footer-subscribe.html
+
+
+# # Default YAML values (more information on Jekyll's site)
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       comments: true  # add comments to all blog posts
+#       social-share: true # add social media sharing buttons to all blog posts
+#   -
+#     scope:
+#       path: "" # any file that's not a post will be a "page" layout by default
+#     values:
+#       layout: "page"
+  
+#   -
+#     scope:
+#       path: "notblog"
+#     values:
+#       layout: "post"
+#       carbonads: true
+#       comments: true
+#       social-share: true
+#       show-share: true
+#       show-subscribe: true
+#       support_promo_box: true
+#       after-content: [share-section.html, scroll-box.html]
+#   -
+#     scope:
+#       path: "pages"
+#     values:
+#       layout: "page"
+#       comments: true
+#   -
+#     scope:
+#       path: ""
+#     values:
+#       layout: "page"
+#       before-content: [support_promo_box.html, carbonads.html]
+#       footer-extra: footer-subscribe.html
 
   
 # Exclude these files from production site
