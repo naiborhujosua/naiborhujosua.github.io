@@ -138,7 +138,7 @@ Technical Reads -->
 - <p> Data Labeling in Machine Learning with Python: Explore modern ways to prepare labeled data for training and fine-tuning ML and generative AI models  by <bold>  Vijaya Kumar Suda  </bold>on <a href="https://www.amazon.com/dp/1804610542/ref=sspa_dk_rhf_search_pt_sub_5/?_encoding=UTF8&ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9yaGZfc2VhcmNoX3BlcnNvbmFsaXplZA%3D%3D&pd_rd_w=eepky&content-id=amzn1.sym.ed82556b-5073-4521-a186-65fb40557bf5&pf_rd_p=ed82556b-5073-4521-a186-65fb40557bf5&pf_rd_r=Z8P3J0CN7PABMYFGM8WD&pd_rd_wg=Azsrc&pd_rd_r=7b108636-581d-45ca-928d-20bda94b1cc0&ref_=sspa_dk_rhf_search_pt_sub"> Amazon </a></p> 
 <br><br>
 
-## <img src="/assets/img/softskills.JPG" height="50px">  
+## <img src="/assets/img/sofskills.JPG" height="50px">  
 
 - <p> Soft Skills: The Software Developer's Life Manual by <b> <bold>John Sonmez</bold></b> on <a href="https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B09BP6JWTQ/ref=sr_1_1?crid=3OWPYYSJ2UUT2&keywords=software+skills&qid=1690775965&s=books&sprefix=softwareb%2Cstripbooks-intl-ship%2C4702&sr=1-1"> Amazon </a></p>
 - <p> Power And Prediction: The Disruptive Economics of Artificial Intelligence by <b> <bold>Ajay Agrawal</bold> </b> on <a href="https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192"> Amazon </a></p>
@@ -227,8 +227,7 @@ Technical Reads -->
 <p> Winning with Data Science: A Handbook for Business Leaders by <b> <bold>Howard Steven Friedman  </bold></b> on <a href="https://www.amazon.com/Winning-Data-Science-Handbook-Business/dp/0231206860"> Amazon </a></p>
 <p> AI: Unexplainable, Unpredictable, Uncontrollable (Chapman & Hall/CRC Artificial Intelligence and Robotics Series)  by <b> <bold>Roman V. Yampolskiy  </bold></b> on <a href="https://www.amazon.com/Unexplainable-Unpredictable-Uncontrollable-Artificial-Intelligence/dp/1032576278"> Amazon </a></p>
 
-{: .box-note}
-Data Visualization
+## <img src="/assets/img/dv.JPG" height="50px">  
 <p> Streamlit for Data Science - 2nd Edition  by <b> <bold> Tyler Richards </bold></b> on <a href="https://www.manning.com/books/simple-object-oriented-design"> Packt </a></p>
 <p> Web App Development Made Simple with Streamlit: A web developer's guide to effortless web app development, deployment, and scalability  by <b> <bold> Rosario Moscato </bold></b> on <a href="https://www.amazon.com/Web-Development-Made-Simple-Streamlit/dp/1835086314/ref=sr_1_2?crid=FBDDZ6T09TQC&dib=eyJ2IjoiMSJ9.uVSe9i4hb9DPLNTQTqwqK4ZE-x9P3M7y0E8hZR8QOxi6NCZPCOReUKYMEEmLuzqcdQSIVqju4iwQTVP8X09bPXr9n43vawAwLVf0aTeYsh6kEibA6HNu4ilQPYcMpuQZoKp6oQyEgz2JemGArtz9R5chOwRkx3lKRldA3B5HKl8fcNDFwqUKRRLLj4W0EAIZjGIIpVP-OmqU0TtfplrK6dD8GhZO_etImzx_IPpn_tw.gj-ypkBXbgH-YUVDy05kb_BFdPgtRnfiSd71lL4dGsw&dib_tag=se&keywords=streamlit&qid=1715010904&s=books&sprefix=streaml%2Cstripbooks-intl-ship%2C403&sr=1-2"> Packt </a></p>
 
