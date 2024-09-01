@@ -1,9 +1,9 @@
 {: .box-success}
 Here's a glimpse into my collection of books I've gathered over the last couple of years. Each volume has been a source of enlightenment, broadening my understanding across various subjects and contexts. For comprehensive reviews, please refer to my [Goodreads Profile](https://www.goodreads.com/naiborhujosua).
 
-
-{: .box-note}
-Technical Reads
+<img src="../img/technicalread.JPG" height="20px">
+<!-- {: .box-note}
+Technical Reads -->
 
 - <p>Communicating with Data: The Art of Writing for Data Science by <b> <bold>Deborah Nolan </bold></b> on <a href="https://www.amazon.com/Communicating-Data-Art-Writing-Science/dp/019886275X/ref=sr_1_3?dib=eyJ2IjoiMSJ9.QSv_etKwBcHZPTna6VZZsY_q5xNNRJwyPtyVAPLjN81Rt-f7gb_8WN_k29PeUcEnzP-lZ3pw0Y8x5leLic6mIMdVGXH0KehLl2P4VqOsNO66rnittjgVY77lFe8sYqqJa3XU8xYjVAHNGsyEuc-DkeXM-fUjNsoE46iEct3XbS2zyBhW7NX0n0qORSkjMVmzMwKO57kfntsK04GIxJXQOSsnv6ijj2BKyziQeIdoTdE.aOoGYrSt5diiCoUqsHUxEvA9XIeDDxLQBGbbNy2_xvU&dib_tag=se&qid=1719907785&refinements=p_27%3ADeborah+Nolan&s=books&sr=1-3"> Amazon </a></p>
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
