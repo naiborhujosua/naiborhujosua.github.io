@@ -17,7 +17,7 @@ To get in touch with me, you can send an e-mail to <consult@naiborhujosua.com>. 
 
 ## <img src="/assets/img/software.png" height="50px"> Citation
 © Josua Naiborhu, 2023-2024. 
-If you use this document or any part of it, please acknowledge the source, thank you!
+These posts are meant to be used for educational purposes. Excerpts and links from this site may be used, provided that full and clear credit is given to Josua Naiborhu with appropriate and specific direction to the original content.
 
 
 ## <img src="/assets/img/career.png" height="50px"> Note
