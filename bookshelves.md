@@ -6,7 +6,6 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <!-- {: .box-note}
 Technical Reads -->
 
-- <p>Communicating with Data: The Art of Writing for Data Science by <b> <bold>Deborah Nolan </bold></b> on <a href="https://www.amazon.com/Communicating-Data-Art-Writing-Science/dp/019886275X/ref=sr_1_3?dib=eyJ2IjoiMSJ9.QSv_etKwBcHZPTna6VZZsY_q5xNNRJwyPtyVAPLjN81Rt-f7gb_8WN_k29PeUcEnzP-lZ3pw0Y8x5leLic6mIMdVGXH0KehLl2P4VqOsNO66rnittjgVY77lFe8sYqqJa3XU8xYjVAHNGsyEuc-DkeXM-fUjNsoE46iEct3XbS2zyBhW7NX0n0qORSkjMVmzMwKO57kfntsK04GIxJXQOSsnv6ijj2BKyziQeIdoTdE.aOoGYrSt5diiCoUqsHUxEvA9XIeDDxLQBGbbNy2_xvU&dib_tag=se&qid=1719907785&refinements=p_27%3ADeborah+Nolan&s=books&sr=1-3"> Amazon </a></p>
 - <p>  Writing for Developers: Blogs that get rea by <b> <bold>Piotr Sarna </bold></b> on <a href="https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284"> Manning </a></p>
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
 - <p>  How Not to Be Wrong: The Power of Mathematical Thinking by <b> <bold>Jordan Ellenberg  </bold></b> on <a href="https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535"> Amazon </a></p>
