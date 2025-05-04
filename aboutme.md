@@ -8,7 +8,7 @@ Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, an indep
 
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. My areas of expertise include statistical learning, predictive modeling, computer vision, Large Language Models, and interpretable machine learning. I share data science-related content from a software engineering perspective.
 
-On top of that, I enjoy spending my leisure time reading books and running. I have taken part in Jakarta Marathon 2015 and Osaka Marathon 2019. I am participating in the 2024 Challenges to read [over 50 books](https://naiborhujosua.github.io/bookshelves/) on diverse topics such as machine learning, deep learning, content creation, writing, and solopreneurship.
+On top of that, I enjoy spending my leisure time reading books and running. I have taken part in Jakarta Marathon 2015 and Osaka Marathon 2019.
 
 
 ## <img src="/assets/img/contact.png" height="50px"> Contact
