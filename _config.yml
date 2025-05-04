@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My amazing website
+title: Josua Naiborhu
 
 # Your name to show in the footer
-author: Some Person
+author: Josua Naiborhu
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Consultation: "https://calendly.com/naiborhujosua/60min?month=2024-05"
+  Publication: "https://www.freecodecamp.org/news/author/naiborhujosua/"
+  Bookshelves: "bookshelves"
+  Archive: "https://naiborhujosua.com/mlnotes_josua/"
+
 
 ################
 # --- Logo --- #
