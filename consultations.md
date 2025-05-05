@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consultation Schedule 
+title: 60 minute Call with Josua Naiborhu
 subtitle: An opportunity to consult regarding your specific needs or questions
 ---
 
