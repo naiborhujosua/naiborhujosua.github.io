@@ -137,7 +137,7 @@ Technical Reads -->
 - <p> Probably Overthinking It: How to Use Data to Answer Questions, Avoid Statistical Traps, and Make Better Decisions by <bold> Allen B. Downey</bold>on <a href="https://www.amazon.com/Probably-Overthinking-Questions-Statistical-Decisions/dp/0226822583/ref=sr_1_1?crid=57I1B4CV6W29&dib=eyJ2IjoiMSJ9.podaU9TLn_LXP1_ZjdRrDQKqSqqZlHEpeafph5cZj4ivwzLoebAAdbFLdGun5SEoANrFzwxmH1904wBE4pQ-5gYom5AXIa1RfnNlHYKbxzJBa5lbHKcclWq-Nhb8Gdv-.73UBQAzTF5E3gtAG5p5FAjAuzhPEtoM_vnQLdU4zrZE&dib_tag=se&keywords=probably+overthinking+it&qid=1708486169&s=books&sprefix=probably+%2Cstripbooks-intl-ship%2C369&sr=1-1"> Amazon </a></p> 
 - <p>Fast Python: High performance techniques for large datasets  by <bold>Tiago Rodrigues Antao  </bold>on <a href="https://www.amazon.com/Python-Science-Tiago-Rodrigues-Antao/dp/1617297933"> Amazon </a></p> 
 - <p> Data Labeling in Machine Learning with Python: Explore modern ways to prepare labeled data for training and fine-tuning ML and generative AI models  by <bold>  Vijaya Kumar Suda  </bold>on <a href="https://www.amazon.com/dp/1804610542/ref=sspa_dk_rhf_search_pt_sub_5/?_encoding=UTF8&ie=UTF8&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9yaGZfc2VhcmNoX3BlcnNvbmFsaXplZA%3D%3D&pd_rd_w=eepky&content-id=amzn1.sym.ed82556b-5073-4521-a186-65fb40557bf5&pf_rd_p=ed82556b-5073-4521-a186-65fb40557bf5&pf_rd_r=Z8P3J0CN7PABMYFGM8WD&pd_rd_wg=Azsrc&pd_rd_r=7b108636-581d-45ca-928d-20bda94b1cc0&ref_=sspa_dk_rhf_search_pt_sub"> Amazon </a></p> 
-<br><br>
+
 
 ## <img src="/assets/img/sofskills.JPG" height="30px">  
 
