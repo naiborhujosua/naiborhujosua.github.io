@@ -9,8 +9,9 @@ Consultations are conducted via Zoom and are exclusively available to prospectiv
 
 The schedule is subject to change at any time.
 
+
 <iframe 
-src="https://calendly.com/jane-doe/30min](https://calendly.com/naiborhujosua/60min?month=2024-05" 
+src="https://calendly.com/naiborhujosua/60min?month=2024-05" 
 style="width: 100%; min-width: 320px; height: 700px;" 
 frameborder="0">
 </iframe>
