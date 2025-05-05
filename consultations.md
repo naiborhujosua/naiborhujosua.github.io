@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Consultation Schedule 
+subtitle: An opportunity to consult regarding your specific needs or questions
 ---
 
 
