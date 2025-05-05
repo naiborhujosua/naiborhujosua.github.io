@@ -6,7 +6,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <!-- {: .box-note}
 Technical Reads -->
 
-- <p>  Writing for Developers: Blogs that get rea by <b> <bold>Piotr Sarna </bold></b> on <a href="https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284"> Manning </a></p>
+- <p>  Writing for Developers: Blogs that get read by <b> <bold>Piotr Sarna </bold></b> on <a href="https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284"> Manning </a></p>
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
 - <p>  How Not to Be Wrong: The Power of Mathematical Thinking by <b> <bold>Jordan Ellenberg  </bold></b> on <a href="https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535"> Amazon </a></p>
 - <p> Causal Inference for Data Science by <b> <bold> Alex Ruiz de Villa </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
