@@ -9,4 +9,4 @@ Consultations are conducted via Zoom and are exclusively available to prospectiv
 
 The schedule is subject to change at any time.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FJakarta&showPrint=0&mode=MONTH&title=Consultation%20schedule-%20Josua%20Naiborhu&src=bmFpYm9yaHVqb3N1YUBhbHVtbmkudWkuYWMuaWQ&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FJakarta&showPrint=0&title=consult%40naiborhujosua.com&src=bmFpYm9yaHVqb3N1YUBhbHVtbmkudWkuYWMuaWQ&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
