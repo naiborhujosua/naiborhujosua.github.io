@@ -4,7 +4,7 @@ title: Consultation Schedule
 ---
 
 
-Consultation are held on Zoom and are only accessible to prospective client. If you are interested in 1-1 consultation, Do not hesitate to fill out the [calendly](https://calendly.com/naiborhujosua/60min?month=2024-05) form.
+Consultation is held on Zoom and are only accessible to prospective client. If you are interested in 1-1 consultation, Do not hesitate to fill out the [calendly](https://calendly.com/naiborhujosua/60min?month=2024-05) form.
 
 The schedule is subject to change at any time.
 
