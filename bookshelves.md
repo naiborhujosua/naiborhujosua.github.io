@@ -1,6 +1,6 @@
 {: .box-note}
 Here's a glimpse into my collection of books I've gathered over the last couple of years. Each volume has been a source of enlightenment, broadening my understanding across various subjects and contexts. For comprehensive reviews, please refer to my [Goodreads Profile](https://www.goodreads.com/naiborhujosua).
-```html
+{{< rawhtml >}}
       <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
       <style type="text/css" media="screen">
   .gr_custom_container_ {
@@ -147,8 +147,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 
       </div>
       <script src="https://www.goodreads.com/review/custom_widget/125884887.Josua's%20bookshelf:%20read?cover_position=&cover_size=&num_books=5&order=&shelf=&sort=&widget_bg_transparent=" type="text/javascript" charset="utf-8"></script>
-
-```
+{{< /rawhtml >}}
 
 ## <img src="/assets/img/technicalread.JPG" height="30px">  
 <!-- {: .box-note}
