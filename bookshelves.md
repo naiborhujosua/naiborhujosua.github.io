@@ -6,7 +6,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <!-- {: .box-note}
 Technical Reads -->
 
-- <p>  Writing for Developers: Blogs that get read by <b> <bold>Piotr Sarna </bold></b> on <a href="https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284"> Manning </a></p>
+- <p>  Build a Large Language Model by <b> <bold>Sebastian Raschka  </bold></b> on <a href="https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167"> Amazon </a></p>
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
 - <p>  How Not to Be Wrong: The Power of Mathematical Thinking by <b> <bold>Jordan Ellenberg  </bold></b> on <a href="https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535"> Amazon </a></p>
 - <p> Causal Inference for Data Science by <b> <bold> Alex Ruiz de Villa </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
@@ -169,6 +169,7 @@ Technical Reads -->
 
 ## <img src="/assets/img/contentcreation.JPG" height="30px">  
 
+- <p>  Writing for Developers: Blogs that get read by <b> <bold>Piotr Sarna </bold></b> on <a href="https://www.amazon.com/Writing-Developers-Blogs-that-read/dp/1633436284"> Manning </a></p>
 - <p> Successful Self-Publishing: How to self-publish and market your book in ebook and print by <b><bold> Joanna Penn</bold> </b> on <a href="https://www.amazon.com/Successful-Self-Publishing-self-publish-market-Writers/dp/1912105853"> Amazon </a></p>
 - <p> Dad, I Want to Hear Your Story: A Father’s Guided Journal To Share His Life & His Love (Hear Your Story Books) by <b><bold>Jeffrey Mason</bold> </b> on <a href="https://www.amazon.com/Dad-Want-Hear-Your-Story/dp/1070527718/ref=sr_1_1?crid=34BGEWR1PO76U&dib=eyJ2IjoiMSJ9.SeC8rJofmtiLZTjvU7eNl4H-BG10LAR5isGUlH4mMbLSIWdqo1XeAauADspLHFhrTLnf9uM4pakgczdLyeRaCfcMY0rhM3A_NTYjQGQVWkPFy1Ri70BJkC5OPJ-mSVmMmn1quYwwtRSumbrTgxAWHUB23wIpgMF6ADyidcVAoAs6DRSG9ivaxTvYoFx-hzHxfKsVzr00oqiamiGiduyN735drwZ0kP9nmmLjeFTm3C0.6v2lSCsxB13fFYaZzZEBhkRKkk1-LBXTjRivyQl9kKM&dib_tag=se&keywords=dad+i+want+to+hear+your+story&qid=1718106849&s=books&sprefix=dad%2Cstripbooks-intl-ship%2C361&sr=1-1"> Amazon </a></p>
 - <p> Data Insights Delivered: 7 Proven Steps to Understand Stakeholders, Manage Expectations, and Deliver Actual Value by <b><bold> Mo Villagran</bold> </b> on <a href="https://www.amazon.com/dp/B0CCZXNQ7R/ref=sspa_dk_detail_4?psc=1&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=V761J1TFY47A11ARN74M&pd_rd_wg=OQpeY&pd_rd_w=8Irvx&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pd_rd_r=c8871fcb-c378-4e5a-a5f6-4b3551cde9fd&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw"> Amazon </a></p>
