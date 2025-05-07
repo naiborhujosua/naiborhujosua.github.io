@@ -2,11 +2,6 @@
 Here's a glimpse into my collection of books I've gathered over the last couple of years. Each volume has been a source of enlightenment, broadening my understanding across various subjects and contexts. For comprehensive reviews, please refer to my [Goodreads Profile](https://www.goodreads.com/naiborhujosua).
 
 
- <!--  Goodreads iframe code goes here  -->
- <iframe src="https://www.goodreads.com/user/show/125884887-josua-naiborhu" width="300" height="200" style="border: none;"></iframe>
-
-
-
 ## <img src="/assets/img/technicalread.JPG" height="30px">  
 <!-- {: .box-note}
 Technical Reads -->
