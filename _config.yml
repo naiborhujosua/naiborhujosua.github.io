@@ -55,7 +55,7 @@ social-network-links:
   email: "consult@naiborhujosua.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: naiborhujosua
+  #github: naiborhujosua
   #twitter: daattali
   #patreon: naiborhujosua
   #youtube: "@daattali"
@@ -79,12 +79,12 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
-  kaggle: naiborhujosua
+ # kaggle: naiborhujosua
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
-  strava: jnaiborhu
+  #strava: jnaiborhu
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
