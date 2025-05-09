@@ -23,9 +23,11 @@ navbar-links:
   About Me: "aboutme"
   #Consultation: "https://calendly.com/naiborhujosua/60min?month=2024-05"
   Consultation: "consultations"
-  Publication: "https://www.freecodecamp.org/news/author/naiborhujosua/"
-  Bookshelves: "bookshelves"
-  Archive: "https://naiborhujosua.com/mlnotes_josua/"
+  Resources:
+    - Publication: "https://www.freecodecamp.org/news/author/naiborhujosua/"
+    - Bookshelves: "bookshelves"
+    - Archive: "https://naiborhujosua.com/mlnotes_josua/"
+    
 
 
 ################
