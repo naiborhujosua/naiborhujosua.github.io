@@ -7,7 +7,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 Technical Reads -->
 
 - <p>  Build a Large Language Model by <b> <bold>Sebastian Raschka  </bold></b> on <a href="https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167"> Amazon </a></p>
-- <p>Math for Programmers: 3D graphics, machine learning, and simulations with Python by <b> <bold> Scott Cunningham </bold></b> on <a href="[https://www.amazon.com/Causal-Inference-Mixtape-Scott-Cunningham/dp/0300251688](https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353)"> Amazon</a></p>
+- <p>Math for Programmers: 3D graphics, machine learning, and simulations with Python by <b> <bold> Paul Orland </bold></b> on <a href="https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353"> Amazon</a></p>
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
 - <p>  How Not to Be Wrong: The Power of Mathematical Thinking by <b> <bold>Jordan Ellenberg  </bold></b> on <a href="https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535"> Amazon </a></p>
 - <p> Causal Inference for Data Science by <b> <bold> Alex Ruiz de Villa </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
