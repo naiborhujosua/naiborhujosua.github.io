@@ -7,7 +7,8 @@ subtitle: An opportunity to consult regarding your specific needs
 
 Consultations are conducted via Zoom and are exclusively available to prospective clients. If you are interested in scheduling a one-on-one consultation, please feel free to complete the [Calendly](https://calendly.com/naiborhujosua/60min?month=2025-05) form.
 
-The schedule is subject to change at any time
+The schedule is subject to change at any time.
+
 ---
 
 
