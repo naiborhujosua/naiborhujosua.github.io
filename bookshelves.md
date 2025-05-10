@@ -1,19 +1,18 @@
 {: .box-note}
 Here's a glimpse into my collection of books I've gathered over the last couple of years. Each volume has been a source of enlightenment, broadening my understanding across various subjects and contexts. For comprehensive reviews, please refer to my [Goodreads Profile](https://www.goodreads.com/naiborhujosua).
 
-<iframe src="https://www.goodreads.com/user/show/125884887-josua-naiborhu" style="width: 100%; min-width: 320px; height: 700px;" frameborder="0"> </iframe>
 
 ## <img src="/assets/img/technicalread.JPG" height="30px">  
 <!-- {: .box-note}
 Technical Reads -->
 
-- <p>  Build a Large Language Model by <b> <bold>Sebastian Raschka  </bold></b> on <a href="https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167"> Amazon </a></p>
 - <p>Math for Programmers: 3D graphics, machine learning, and simulations with Python by <b> <bold> Paul Orland </bold></b> on <a href="https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353"> Amazon</a></p>
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
 - <p>  How Not to Be Wrong: The Power of Mathematical Thinking by <b> <bold>Jordan Ellenberg  </bold></b> on <a href="https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535"> Amazon </a></p>
 - <p> Causal Inference for Data Science by <b> <bold> Alex Ruiz de Villa </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
 - <p> D3.js in Action, Third Edition  by <b> <bold> Elijah Meeks </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
 - <p> Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by <b> <bold> Alex Claus O. Wilke </bold></b> on <a href="https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089"> Amazon </a></p>
+- <p>  Build a Large Language Model by <b> <bold>Sebastian Raschka  </bold></b> on <a href="https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167"> Amazon </a></p>
 - <p> Hands-On Data Visualization by <b> <bold> Jack Dougherty </bold></b> on <a href="[https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658](https://www.amazon.com/Hands-Data-Visualization-Storytelling-Spreadsheets/dp/1492086002/)"> Amazon </a></p>
 - <p>Causal Inference in Statistics - A Primer  by <b> <bold>  Judea Pearl </bold></b> on <a href="[https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658](https://www.amazon.com/Causal-Inference-Statistics-Judea-Pearl/dp/1119186846/?_encoding=UTF8&pd_rd_w=Hxkgw&content-id=amzn1.sym.f911c8db-3a2b-4b3e-952f-b80fdcee83f4&pf_rd_p=f911c8db-3a2b-4b3e-952f-b80fdcee83f4&pf_rd_r=145-0556486-3671464&pd_rd_wg=FxLPV&pd_rd_r=7dc29bf2-9518-4631-aa4c-5d9e5e21d4e9&ref_=aufs_ap_sc_dsk#customerReviews)"> Amazon </a></p>
 - <p>Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries by <b> <bold>Jim Frost</bold> </b> on <a href="https://www.amazon.com/Introduction-Statistics-Intuitive-Analyzing-Discoveries/dp/1735431109"> Amazon  </a></p>
