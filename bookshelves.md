@@ -8,7 +8,7 @@ Technical Reads -->
 
 - <p>Math for Programmers: 3D graphics, machine learning, and simulations with Python by <b> <bold> Paul Orland </bold></b> on <a href="https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353"> Amazon</a></p>
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
-- <p>  How Not to Be Wrong: The Power of Mathematical Thinking by <b> <bold>Jordan Ellenberg  </bold></b> on <a href="https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535"> Amazon </a></p>
+- <p>  Generative AI with Python and PyTorch: Navigating the AI frontier with LLMs, Stable Diffusion, and next-gen AI applications 2nd Edition by <b> <bold>Raghav Bali  </bold></b> on <a href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge/dp/B0D9QBYYBQ/"> Amazon </a></p>
 - <p> Causal Inference for Data Science by <b> <bold> Alex Ruiz de Villa </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
 - <p> D3.js in Action, Third Edition  by <b> <bold> Elijah Meeks </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
 - <p> Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures by <b> <bold> Alex Claus O. Wilke </bold></b> on <a href="https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089"> Amazon </a></p>
