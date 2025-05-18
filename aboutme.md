@@ -19,7 +19,7 @@ To get in touch with me, you can send an e-mail to <consult@naiborhujosua.com>. 
 I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consultation session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
 
-## <img src="/assets/img/software.png" height="50px"> interesting courses
+## <img src="/assets/img/software.png" height="50px"> Courses
 - <p>  Large Language Model Systems by <a href="https://llmsystem.github.io/llmsystem2025spring/"> Carnegie Mellon University</a></p>
 - <p> Large Language Model Agents 2024 by <a href="https://rdi.berkeley.edu/llm-agents/f24"> Barkeley University</a></p>
 - <p>  Advanced Large Language Model Agents 2025 by <a href="https://llmagents-learning.org/sp25"> Barkeley University</a></p>
