@@ -20,6 +20,7 @@ I am not seeking employment opportunities. Any organization or company that woul
 
 
 ## <img src="/assets/img/software.png" height="50px"> Courses Taken
+- <p>  Machine Learning Specialization by <a href="https://llmsystem.github.io/llmsystem2025spring/"> DeepLearning.AI</a></p>
 - <p>  Large Language Model Systems by <a href="https://llmsystem.github.io/llmsystem2025spring/"> Carnegie Mellon University</a></p>
 - <p> Large Language Model Agents 2024 by <a href="https://rdi.berkeley.edu/llm-agents/f24"> Barkeley University</a></p>
 - <p>  Advanced Large Language Model Agents 2025 by <a href="https://llmagents-learning.org/sp25"> Barkeley University</a></p>
