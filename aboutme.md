@@ -21,7 +21,8 @@ I am not seeking employment opportunities. Any organization or company that woul
 
 ## <img src="/assets/img/software.png" height="50px"> Courses Taken
 - <p>  Machine Learning Specialization by <a href="https://llmsystem.github.io/llmsystem2025spring/"> DeepLearning.AI</a></p>
-- <p> Language Modeling from Scratch by <a href="https://stanford-cs336.github.io/spring2025/"> Standford </a></p>
+- <p> Language Modeling from Scratch by <a href="https://stanford-cs336.github.io/spring2025/"> Stanford </a></p>
+- <p> Writing in the Sciences by <a href="https://www.coursera.org/learn/sciwrite"> Stanford </a></p>
 - <p> Advances in Computer Vision by <a href="https://advances-in-vision.github.io/"> MIT </a></p>
 - <p>  Large Language Model Systems by <a href="https://llmsystem.github.io/llmsystem2025spring/"> Carnegie Mellon University</a></p>
 - <p> Large Language Model Agents 2024 by <a href="https://rdi.berkeley.edu/llm-agents/f24"> Barkeley University</a></p>
