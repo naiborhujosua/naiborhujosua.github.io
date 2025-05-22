@@ -4,7 +4,7 @@ title: About me 👋
 ---
 
 
-Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, an independent consultant and a big fan of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum).
+Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, an independent consultant, [Universitas Indonesia](https://www.google.com/search?client=safari&rls=en&q=universitas+indonesia&ie=UTF-8&oe=UTF-8&dlnr=1&sei=ydMuaNqGHuCLseMPkJubmQM) alumni and a big fan of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum).
 
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. My areas of expertise include statistical learning, predictive modeling, computer vision, Large Language Models, and interpretable machine learning. I share data science-related content from a software engineering perspective.
 
