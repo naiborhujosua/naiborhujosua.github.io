@@ -8,7 +8,7 @@ Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, an indep
 
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. My areas of expertise include statistical learning, predictive modeling, computer vision, Large Language Models, and interpretable machine learning. I share data science-related content from a software engineering perspective.
 
-On top of that, I enjoy spending my leisure time reading books, immersing myself in nature, and running.
+On top of that, I enjoy spending my leisure time [reading books](https://www.goodreads.com/user/show/125884887-josua-naiborhu), immersing myself in nature, and running.
 
 
 ## <img src="/assets/img/contact.png" height="50px"> Contact
