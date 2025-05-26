@@ -23,7 +23,7 @@ I am not seeking employment opportunities. Any organization or company that woul
 <p> Writing in the Sciences by <a href="https://www.coursera.org/learn/sciwrite"> Stanford </a></p>
 <p> Advances in Computer Vision by <a href="https://advances-in-vision.github.io/"> MIT </a></p>
 <p> Language Modeling from Scratch by <a href="https://stanford-cs336.github.io/spring2025/"> Stanford </a></p>
-<p>  Machine Learning Specialization by <a href="https://llmsystem.github.io/llmsystem2025spring/"> DeepLearning.AI</a></p>
+<p>  Machine Learning Specialization by <a href="https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_machine-learning-introduction_deeplearning-ai_ftcof_specializations_cx_dr_bau_gg_sem_pr_s2_all_m_hyb_24-07_x&campaignid=21517156763&adgroupid=166384451658&device=c&keyword=machine%20learning%20with%20andrew%20ng&matchtype=p&network=g&devicemodel=&creativeid=707443146925&assetgroupid=&targetid=kwd-1435568507278&extensionid=&placement=&gad_source=1&gad_campaignid=21517156763&gbraid=0AAAAADdKX6a9PUsymObxBs4dUV0AV07Z-&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCdFnYl2VvJOEybsPyfL2ATnlPQ_kvZ2o9uCo063djyM9tJw3Lh3wYaAlneEALw_wcB"> DeepLearning.AI</a></p>
 <p> Large Language Model Agents 2024 by <a href="https://rdi.berkeley.edu/llm-agents/f24"> Barkeley University</a></p>
 <p>  Large Language Model Systems by <a href="https://llmsystem.github.io/llmsystem2025spring/"> Carnegie Mellon University</a></p>
 <p>  Recent Advances on Foundation Models by <a href="https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/"> Waterloo University</a></p>
