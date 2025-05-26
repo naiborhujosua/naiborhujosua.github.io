@@ -7,6 +7,7 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 Technical Reads -->
 
 - <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
+- <p>  Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning by <b> <bold>Tivadar Danka </bold></b> on <a href="https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870"> amazon </a></p>
 - <p>  Generative AI with Python and PyTorch: Navigating the AI frontier with LLMs, Stable Diffusion, and next-gen AI applications 2nd Edition by <b> <bold>Raghav Bali  </bold></b> on <a href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge/dp/B0D9QBYYBQ/"> Amazon </a></p>
 - <p> Causal Inference for Data Science by <b> <bold> Alex Ruiz de Villa </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
 - <p> D3.js in Action, Third Edition  by <b> <bold> Elijah Meeks </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
