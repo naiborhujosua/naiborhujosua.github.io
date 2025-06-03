@@ -27,6 +27,7 @@ I am not seeking employment opportunities. Any organization or company that woul
 <p> Large Language Model Agents 2024 by <a href="https://rdi.berkeley.edu/llm-agents/f24"> Barkeley University</a></p>
 <p>  Large Language Model Systems by <a href="https://llmsystem.github.io/llmsystem2025spring/"> Carnegie Mellon University</a></p>
 <p>  Recent Advances on Foundation Models by <a href="https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/"> Waterloo University</a></p>
+<p>  A course in Geographic Data Science by <a href="https://pietrostefani.github.io/gds/"> University of Liverpool</a></p>
 <p>  Advanced Large Language Model Agents 2025 by <a href="https://llmagents-learning.org/sp25"> Barkeley University</a></p>
 
 
