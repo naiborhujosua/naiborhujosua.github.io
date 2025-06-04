@@ -30,6 +30,8 @@ I am not seeking employment opportunities. Any organization or company that woul
 <p>  Recent Advances on Foundation Models by <a href="https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/"> Waterloo University</a></p>
 <p>  A course in Geographic Data Science by <a href="https://pietrostefani.github.io/gds/"> University of Liverpool</a></p>
 <p>  Advanced Large Language Model Agents 2025 by <a href="https://llmagents-learning.org/sp25"> Barkeley University</a></p>
+<p>
+Data Analysis for Business, Economics, and Policy by <a href="https://gabors-data-analysis.com/"> Gabors Data Analysis</a></p>
 
 
 
