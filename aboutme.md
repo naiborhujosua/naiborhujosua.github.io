@@ -20,7 +20,9 @@ I am not seeking employment opportunities. Any organization or company that woul
 
 
 ## <img src="/assets/img/software.png" height="50px"> Courses Taken
+<p>Customer Analytics by <a href="https://kennethcwilbur.github.io/mgt100/"> UCSD</a></p>
 <p> Writing in the Sciences by <a href="https://www.coursera.org/learn/sciwrite"> Stanford </a></p>
+
 <p> Advances in Computer Vision by <a href="https://advances-in-vision.github.io/"> MIT </a></p>
 <p> Language Modeling from Scratch by <a href="https://stanford-cs336.github.io/spring2025/"> Stanford </a></p>
 <p> Geology and Geography by <a href="https://wvview.org/courses.html"> West Virginia View</a></p>
@@ -32,6 +34,5 @@ I am not seeking employment opportunities. Any organization or company that woul
 <p>  Advanced Large Language Model Agents 2025 by <a href="https://llmagents-learning.org/sp25"> Barkeley University</a></p>
 <p>
 Data Analysis for Business, Economics, and Policy by <a href="https://gabors-data-analysis.com/"> Gabors Data Analysis</a></p>
-
 
 
