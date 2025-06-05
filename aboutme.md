@@ -20,6 +20,7 @@ I am not seeking employment opportunities. Any organization or company that woul
 
 
 ## <img src="/assets/img/software.png" height="50px"> Courses Taken
+<p>ML for Trading by <a href="https://ml4trading.io/"> Applied AI</a></p>
 <p>Customer Analytics by <a href="https://kennethcwilbur.github.io/mgt100/"> UCSD</a></p>
 <p> Writing in the Sciences by <a href="https://www.coursera.org/learn/sciwrite"> Stanford </a></p>
 
