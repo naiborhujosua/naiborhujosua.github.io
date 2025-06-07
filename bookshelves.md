@@ -6,7 +6,8 @@ Here's a glimpse into my collection of books I've gathered over the last couple 
 <!-- {: .box-note}
 Technical Reads -->
 
-- <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="[https://www.statlearning.com/](https://www.manning.com/books/effective-data-analysis)"> Manning </a></p>
+- <p>  Effective Data Analysis by <b> <bold>Mona Khalil </bold></b> on <a href="https://www.amazon.com/Effective-Data-Analysis-skills-accelerate/dp/1633438414/ref=sr_1_1?dib=eyJ2IjoiMSJ9.-e5kA_eInu0C0iiC1lUXXSl6jTBG1BxeFBRx38I6aWKU_CgTxBxadxemgEzIG3JvAYYEbYpAiAUWrUo90Y8XBn-Yhzmtab0Z_OfiHfr9ZkuDDfn30TTIVVKbWzgB5OClM2ZGrgz2Rafm5G0xB8AwLOSxh6rBOLR2PTh1NOsBVW5xlosclMM-ByMzQPeJYU2VdrRY4QwE5tRwpNDQLWtyMwvA-C24B-cZ1Qh5RD22aN0.qxCDJt9098iZG_quQkNJSBvIVNpL9IxnKWkKdQTG0ds&dib_tag=se&keywords=Effective+Data+Analysis&qid=1749257220&s=books&sr=1-1"> Amazon </a></p>
+- <p>  Data Analysis for Business, Economics, and Policy by <b> <bold>Gábor Békés </bold></b> on <a href="https://www.amazon.com/Data-Analysis-Business-Economics-Policy/dp/1108716202"> Amazon </a></p>
 - <p>  Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning by <b> <bold>Tivadar Danka </bold></b> on <a href="https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870"> amazon </a></p>
 - <p>  Generative AI with Python and PyTorch: Navigating the AI frontier with LLMs, Stable Diffusion, and next-gen AI applications 2nd Edition by <b> <bold>Raghav Bali  </bold></b> on <a href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge/dp/B0D9QBYYBQ/"> Amazon </a></p>
 - <p> Causal Inference for Data Science by <b> <bold> Alex Ruiz de Villa </bold></b> on <a href="https://www.amazon.com/Causal-Inference-Data-Science-Villa/dp/1633439658"> Amazon </a></p>
