@@ -16,7 +16,7 @@ To get in touch with me, you can send an e-mail to <consult@naiborhujosua.com>. 
 
 
 ## <img src="/assets/img/career.png" height="50px"> Note
-I am not seeking employment opportunities. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consultation session](https://calendly.com/naiborhujosua/60min?month=2024-05).
+I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consultation session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
 
 ## <img src="/assets/img/software.png" height="50px"> Courses Taken
