@@ -239,5 +239,14 @@ Technical Reads -->
 <p> English for Everyone: English Vocabulary Builder (DK English for Everyone) by <bold> DK </bold>on <a href="https://www.amazon.com/gp/product/B088H5Q5TB?ref_=dbs_m_mng_rwt_calw_tkin_18&storeType=ebooks"> Amazon </a></p>
 <p> English for Everyone: Phrasal Verbs: An ESL Book of Over 1,000 English Phrasal Verbs  by <bold>DK    </bold>on <a href="https://www.amazon.com/English-Everyone-Phrasal-Verbs-DK/dp/0744027446/ref=pd_bxgy_d_sccl_1/131-0735788-7658234?pd_rd_w=udLii&content-id=amzn1.sym.839d7715-b862-4989-8f65-c6f9502d15f9&pf_rd_p=839d7715-b862-4989-8f65-c6f9502d15f9&pf_rd_r=BJTRCEACNN9CBEQK6CR8&pd_rd_wg=a89pZ&pd_rd_r=ca2f8611-4d89-4d9e-8410-f4409b8978f4&pd_rd_i=0744027446&psc=1"> Amazon </a></p>
 <p> English for Everyone: Level 4: Advanced, Course Book: A Complete Self-Study Program by <bold>DK    </bold>on <a href="https://www.amazon.com/gp/product/B088H1M9V4?ref_=dbs_m_mng_rwt_calw_tkin_8&storeType=ebooks"> Amazon </a></p>
+<p>JLPT N1 この一冊で合格する by <bold>  日本語の森    </bold>on <a href="https://www.amazon.com/JLPT-N1-この一冊で合格する-Japanese-日本語の森-日本語研究所/dp/B0C2RZDWVX"> Amazon </a></p>
+<p>JLPT N2 この一冊で合格する by <bold>  日本語の森    </bold>on <a href="https://www.amazon.com/JLPT-N2-この一冊で合格する-Japanese-日本語の森-日本語研究所/dp/B0C2S22W3P?ref_=ast_author_mpb"> Amazon </a></p>
+<p>JLPT N3 この一冊で合格する <bold>  日本語の森    </bold>on <a href="https://www.amazon.com/JLPT-N3-この一冊で合格する-Japanese-日本語の森-日本語研究所/dp/B0C2RT9HFD/ref=pd_bxgy_thbs_d_sccl_2/136-8924088-5111707?pd_rd_w=zt7Va&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=K586H447X7KKQPFHE4H5&pd_rd_wg=8nQuE&pd_rd_r=72dbe955-59cd-408b-a001-9b86dc7583ca&pd_rd_i=B0C2RT9HFD&psc=1"> Amazon </a></p>
+<p>JLPT N3 I LOVE KANJI by <bold>  日本語の森    </bold>on <a href="https://www.amazon.com/JLPT-N3-I-LOVE-KANJI/dp/B0FC341SZH?ref_=ast_author_dp"> Amazon </a></p>
+<p>JLPT N2 I LOVE KANJI by <bold>  日本語の森    </bold>on <a href="https://www.amazon.com/JLPT-N2-I-LOVE-KANJI/dp/B0DZD9C492?ref_=ast_author_dp"> Amazon </a></p>
+<p>JLPT N1 I LOVE KANJI by <bold>  日本語の森    </bold>on <a href="https://www.amazon.com/JLPT-N1-この一冊で合格する-Japanese-日本語の森-日本語研究所/dp/4910337105?ref_=ast_author_dp"> Amazon </a></p>
+
+
+
 
 
