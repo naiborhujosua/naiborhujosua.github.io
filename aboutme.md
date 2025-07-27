@@ -25,6 +25,7 @@ I am neither pursuing employment opportunities nor scholarships. Any organizatio
 <p> Writing in the Sciences by <a href="https://www.coursera.org/learn/sciwrite"> Stanford </a></p>
 <p> Advances in Computer Vision by <a href="https://advances-in-vision.github.io/"> MIT </a></p>
 <p> Data Visualization Techniques  by <a href="https://magrawala.github.io/cs448b-fa24/"> Stanford</a></p>
+<p>Machine Learning with Graphs by <a href="https://web.stanford.edu/class/cs224w/">Stanford </a></p>
 <p> Language Modeling from Scratch by <a href="https://stanford-cs336.github.io/spring2025/"> Stanford </a></p>
 <p> Geology and Geography by <a href="https://wvview.org/courses.html"> West Virginia View</a></p>
 <p>
@@ -39,6 +40,8 @@ Artificial Intelligence in Medicine by <a href="https://zitniklab.hms.harvard.ed
 <p>  Advanced Large Language Model Agents 2025 by <a href="https://llmagents-learning.org/sp25"> Barkeley University</a></p>
 <p>
 Data Analysis for Business, Economics, and Policy by <a href="https://gabors-data-analysis.com/"> Gabors Data Analysis</a></p>
+
+
 
 
 
