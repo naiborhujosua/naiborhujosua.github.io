@@ -22,6 +22,7 @@ I am neither pursuing employment opportunities nor scholarships. Any organizatio
 ## <img src="/assets/img/software.png" height="50px"> Courses Taken
 <p>ML for Trading by <a href="https://ml4trading.io/"> Applied AI</a></p>
 <p>Customer Analytics by <a href="https://kennethcwilbur.github.io/mgt100/"> UCSD</a></p>
+<p>AI4Chemistry course by <a href="https://schwallergroup.github.io/ai4chem_course/"> EPFL</a></p>
 <p> Writing in the Sciences by <a href="https://www.coursera.org/learn/sciwrite"> Stanford </a></p>
 <p> Advances in Computer Vision by <a href="https://advances-in-vision.github.io/"> MIT </a></p>
 <p>
@@ -42,6 +43,7 @@ Artificial Intelligence in Medicine by <a href="https://zitniklab.hms.harvard.ed
 <p>  Advanced Large Language Model Agents 2025 by <a href="https://llmagents-learning.org/sp25"> Barkeley University</a></p>
 <p>
 Data Analysis for Business, Economics, and Policy by <a href="https://gabors-data-analysis.com/"> Gabors Data Analysis</a></p>
+
 
 
 
