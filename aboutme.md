@@ -6,7 +6,7 @@ title: About me
 
 Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, an independent consultant, machine learning engineer, and a big fan of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum).
 
-With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. My areas of expertise include statistical learning, predictive modeling, computer vision, Large Language Models, and interpretable machine learning. I share my not-so-profound thoughts on experimenting with data.
+With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. My areas of expertise include statistical learning, predictive modeling, graph neural network, computer vision, Large Language Models, and interpretable machine learning. I share my not-so-profound thoughts on experimenting with data.
 
 In my free time, I enjoy [reading books](https://www.goodreads.com/user/show/125884887-josua-naiborhu) while listening to [drawaurora](https://www.drawaurora.com/), immersing myself in nature, and running.
 
