@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 60 minute Call 
-subtitle: An opportunity to consult regarding your specific needs 
+subtitle: Personalized consulting to help with exactly what you need 
 ---
 
 
