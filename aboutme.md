@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-<b><bold>Short Bio.</bold></b> Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, an independent consultant, machine learning engineer, and a big fan of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum).
+<b><bold>Short Bio.</bold></b> Hello, and welcome to one of my homes on the web! I’m Josua Naiborhu, an independent consultant, machine learning engineer, and a big fan of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum).I hold a bachelor of engineeringin Computer Engineering from Universitas Indonesia.
 
 With over four years of experience in various industries, I have utilized AI capabilities to solve business problems in insurance, transportation, and education. My areas of expertise include statistical learning, predictive modeling, graph neural network, computer vision, large language models, and interpretable machine learning. I share my not-so-profound thoughts on experimenting with data.
 
@@ -16,6 +16,7 @@ In my free time, I enjoy [reading books](https://www.goodreads.com/user/show/125
 
 <b><bold>Note.</bold></b> I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
+<b><bold>Note.</bold></b>
 
 ## <img src="/assets/img/career.png" height="50px"> Courses Taken
 <p>ML for Trading by <a href="https://ml4trading.io/"> Applied AI</a></p>
