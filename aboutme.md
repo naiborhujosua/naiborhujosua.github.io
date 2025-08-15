@@ -11,10 +11,10 @@ With over four years of experience in various industries, I have utilized AI cap
 In my free time, I enjoy [reading books](https://www.goodreads.com/user/show/125884887-josua-naiborhu) while listening to [drawaurora](https://www.drawaurora.com/), immersing myself in nature, and running.
 
 
-<bold>Contact.</bold> To get in touch with me, you can send an e-mail to <hi@naiborhujosua.com>. I am always happy to share feedback on any technical challenges across the entire Machine Learning lifecycle.
+<b><bold>Contact.</bold></b> To get in touch with me, you can send an e-mail to <hi@naiborhujosua.com>. I am always happy to share feedback on any technical challenges across the entire Machine Learning lifecycle.
 
 
-<bold>Note.</bold> I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consultation session](https://calendly.com/naiborhujosua/60min?month=2024-05).
+<b><bold>Note.</bold></b> I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consultation session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
 
 ## <img src="/assets/img/career.png" height="50px"> Courses Taken
