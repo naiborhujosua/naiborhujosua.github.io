@@ -16,7 +16,7 @@ In my free time, I enjoy [reading books](https://www.goodreads.com/user/show/125
 
 <b><bold>Note.</bold></b> I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
-<b><bold>Note.</bold></b>
+
 
 ## <img src="/assets/img/career.png" height="50px"> Courses Taken
 <p>ML for Trading by <a href="https://ml4trading.io/"> Applied AI</a></p>
