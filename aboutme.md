@@ -29,6 +29,7 @@ With over four years of experience in various industries, I have utilized AI cap
 <p> Language Modeling from Scratch by <a href="https://stanford-cs336.github.io/spring2025/"> Stanford </a></p>
 <p> The Modern Software Developer by <a href="https://themodernsoftware.dev"> Stanford </a></p>
 <p> Geology and Geography by <a href="https://wvview.org/courses.html"> West Virginia View</a></p>
+<p>Deep Learning Systems by <a href="https://dlsyscourse.org"> Carnegie Mellon University</a></p>
 <p>  Machine Learning Specialization by <a href="https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_machine-learning-introduction_deeplearning-ai_ftcof_specializations_cx_dr_bau_gg_sem_pr_s2_all_m_hyb_24-07_x&campaignid=21517156763&adgroupid=166384451658&device=c&keyword=machine%20learning%20with%20andrew%20ng&matchtype=p&network=g&devicemodel=&creativeid=707443146925&assetgroupid=&targetid=kwd-1435568507278&extensionid=&placement=&gad_source=1&gad_campaignid=21517156763&gbraid=0AAAAADdKX6a9PUsymObxBs4dUV0AV07Z-&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCdFnYl2VvJOEybsPyfL2ATnlPQ_kvZ2o9uCo063djyM9tJw3Lh3wYaAlneEALw_wcB"> DeepLearning.AI</a></p>
 <p>Artificial Intelligence in Medicine by <a href="https://zitniklab.hms.harvard.edu/AIM2/"> Harvard University</a></p>
 <p> Large Language Model Agents 2024 by <a href="https://rdi.berkeley.edu/llm-agents/f24"> Barkeley University</a></p>
