@@ -24,8 +24,8 @@ navbar-links:
   #Consultation: "https://calendly.com/naiborhujosua/60min?month=2024-05"
   Consulting: "consulting"
   Resources:
-    - Publication: "https://www.freecodecamp.org/news/author/naiborhujosua/"
     - Bookshelves: "bookshelves"
+    - Publication: "https://www.freecodecamp.org/news/author/naiborhujosua/"
     - Archive: "https://naiborhujosua.com/mlnotes_josua/"
     
 
