@@ -22,7 +22,7 @@ With over four years of experience in various industries, I have utilized AI cap
 <p>AI4Chemistry course by <a href="https://schwallergroup.github.io/ai4chem_course/"> EPFL</a></p>
 <p> Urban Data Science by <a href="https://urbandatascience.its.ucla.edu"> UCLA </a></p>
 <p> Writing in the Sciences by <a href="https://www.coursera.org/learn/sciwrite"> Stanford </a></p>
-<p> Mining Massive Data Sets by <a href="https://web.stanford.edu/class/cs246/"> Stanford</a></p>
+<p> Transformers & LLMs by <a href="https://cme295.stanford.edu/syllabus/"> Stanford</a></p>
 <p>Introduction to Deep Learning by <a href="https://introtodeeplearning.com/">MIT</a></p>
 <p> Data Visualization Techniques  by <a href="https://magrawala.github.io/cs448b-fa24/"> Stanford</a></p>
 <p>Machine Learning with Graphs by <a href="https://web.stanford.edu/class/cs224w/">Stanford </a></p>
