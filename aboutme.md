@@ -17,7 +17,6 @@ With over four years of experience in various industries, I have utilized AI cap
 
 
 ## <img src="/assets/img/career.png" height="50px"> Courses Taken
-<p>ML for Trading by <a href="https://ml4trading.io/"> Applied AI</a></p>
 <p> Transformers & LLMs by <a href="https://cme295.stanford.edu/syllabus/"> Stanford</a></p>
 <p>  Machine Learning Specialization by <a href="https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_machine-learning-introduction_deeplearning-ai_ftcof_specializations_cx_dr_bau_gg_sem_pr_s2_all_m_hyb_24-07_x&campaignid=21517156763&adgroupid=166384451658&device=c&keyword=machine%20learning%20with%20andrew%20ng&matchtype=p&network=g&devicemodel=&creativeid=707443146925&assetgroupid=&targetid=kwd-1435568507278&extensionid=&placement=&gad_source=1&gad_campaignid=21517156763&gbraid=0AAAAADdKX6a9PUsymObxBs4dUV0AV07Z-&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCdFnYl2VvJOEybsPyfL2ATnlPQ_kvZ2o9uCo063djyM9tJw3Lh3wYaAlneEALw_wcB"> DeepLearning.AI</a></p>
 
