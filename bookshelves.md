@@ -1,6 +1,5 @@
 {: .box-note}
 Here's a glimpse into my collection of books I've gathered over the last couple of years. Each volume has been a source of enlightenment, broadening my understanding across various subjects and contexts. For comprehensive reviews, please refer to my [Goodreads Profile](https://www.goodreads.com/naiborhujosua).
-<script src="https://gist.github.com/naiborhujosua/8e4c039e50fddd51ff1a20257469a497.js"></script>
 
 
 ## <img src="/assets/img/technicalread.JPG" height="30px">  
