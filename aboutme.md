@@ -14,14 +14,12 @@ With over four years of experience in various industries, I have utilized AI cap
 
 <b><bold>Note.</bold></b> I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
-## <img src="/assets/img/news.png" height="50px"> Latest Read
-<script src="https://gist.github.com/naiborhujosua/90f41f0ea66af98a324c803fc3df6d85.js"></script>
-
 
 ## <img src="/assets/img/software.png" height="50px"> Github status
 <script src="https://gist.github.com/naiborhujosua/99bdc9efb93177785767bdbc8786b3a4.js"></script>
 
-
+## <img src="/assets/img/news.png" height="50px"> Latest Read
+<script src="https://gist.github.com/naiborhujosua/90f41f0ea66af98a324c803fc3df6d85.js"></script>
 
 
 
