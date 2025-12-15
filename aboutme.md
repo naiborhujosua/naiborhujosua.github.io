@@ -17,11 +17,8 @@ With over four years of experience in various industries, I have utilized AI cap
 ## Latest Read
 <script src="https://gist.github.com/naiborhujosua/90f41f0ea66af98a324c803fc3df6d85.js"></script>
 
-<br><br>
-
-## Top Languages
-<script src="https://gist.github.com/naiborhujosua/99bdc9efb93177785767bdbc8786b3a4.js"></script>
-
+## Most Used Languages
+<script src="https://gist.github.com/naiborhujosua/8e4c039e50fddd51ff1a20257469a497.js"></script>
 
 
 
