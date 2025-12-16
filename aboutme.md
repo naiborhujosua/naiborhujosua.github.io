@@ -21,7 +21,7 @@ With over four years of experience in various industries, I have utilized AI cap
 <script src="https://gist.github.com/naiborhujosua/8e4c039e50fddd51ff1a20257469a497.js"></script>
 
 ## TweetCard
-{% include twitter.html content='https://twitter.com/naiborhu_josua/status/1552812985047207938' %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am thrilled to announce that I have been accepted for My Github Sponsor <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a>. Here to create High-quality Machine Learning and Deep Learning Content for people who would like to be successful Machine Learning engineers. <a href="https://t.co/07GdMMMu3b">https://t.co/07GdMMMu3b</a></p>&mdash; josua naiborhu (@naiborhu_josua) <a href="https://twitter.com/naiborhu_josua/status/1552812985047207938?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> 
 
 ## Papers I am currently interested in [arXiv](https://arxiv.org/)
  > - **"Why Should I Trust You?” Explaining the Predictions of Any Classifier**
