@@ -20,24 +20,22 @@ With over four years of experience in various industries, I have utilized AI cap
 ## Most Used Languages
 <script src="https://gist.github.com/naiborhujosua/8e4c039e50fddd51ff1a20257469a497.js"></script>
 
-## TweetCard
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am thrilled to announce that I have been accepted for My Github Sponsor <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a>. Here to create High-quality Machine Learning and Deep Learning Content for people who would like to be successful Machine Learning engineers. <a href="https://t.co/07GdMMMu3b">https://t.co/07GdMMMu3b</a></p>&mdash; josua naiborhu (@naiborhu_josua) <a href="https://twitter.com/naiborhu_josua/status/1552812985047207938?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> 
 
 ## Papers I am currently interested in [arXiv](https://arxiv.org/)
- > - **"Why Should I Trust You?” Explaining the Predictions of Any Classifier**
- > - **Evaluation Gaps in Machine Learning Practice**
- > - **50 Years of Data Science**
- > - **Cyclical Learning Rates for Training Neural Networks**
- > - **Climbing the Kaggle Leaderboard by Exploiting the Log-Loss Oracle**
- > - **On Artificial Intelligence - A European approach to excellence and trust**
- > - **EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**
- > - **The Unreasonable Effectiveness of Data**
- > - **Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)**
- > - **Microsoft COCO: Common Objects in Context**
- > - **is all you need: On the influence of random seeds in deep learning architectures for computer vision**
- > - **Advancing mathematics by guiding human intuition with AI**
- > - **Machine Learning Operations (MLOps): Overview, Definition, and Architecture**
- > - **To Explain or to Predict?**
+ > - Why Should I Trust You?” Explaining the Predictions of Any Classifier
+ > - Evaluation Gaps in Machine Learning Practice
+ > - 50 Years of Data Science
+ > - Cyclical Learning Rates for Training Neural Networks
+ > - Climbing the Kaggle Leaderboard by Exploiting the Log-Loss Oracle
+ > - On Artificial Intelligence - A European approach to excellence and trust
+ > - EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks
+ > - The Unreasonable Effectiveness of Data
+ > - Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)
+ > - Microsoft COCO: Common Objects in Context
+ > - is all you need: On the influence of random seeds in deep learning architectures for computer vision
+ > - Advancing mathematics by guiding human intuition with AI
+ > - Machine Learning Operations (MLOps): Overview, Definition, and Architecture
+ > - To Explain or to Predict?
 
 
 
