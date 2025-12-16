@@ -21,7 +21,7 @@ With over four years of experience in various industries, I have utilized AI cap
 <script src="https://gist.github.com/naiborhujosua/8e4c039e50fddd51ff1a20257469a497.js"></script>
 
 
-## Papers I am currently interested in [arXiv](https://arxiv.org/)
+## interesting research paper at [arXiv](https://arxiv.org/)
  > - Why Should I Trust You?” Explaining the Predictions of Any Classifier
  > -  Evaluation Gaps in Machine Learning Practice
  > -  50 Years of Data Science
