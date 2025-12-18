@@ -5,7 +5,7 @@ subtitle: Personalized consulting to help with exactly what you need
 ---
 
 
-Consulting services are offered via Zoom and are exclusively available to prospective clients. If you’re interested in scheduling a one-on-one consulting session, please complete the Calendly form or do not hesitate to contact me at hi@naiborhujosua.com.
+Consulting services are offered via Zoom and are exclusively available to prospective clients. If you’re interested in scheduling a one-on-one consulting session, please complete the Calendly form or feel free to contact me at hi@naiborhujosua.com.
 
 The schedule is subject to change at any time.
 
