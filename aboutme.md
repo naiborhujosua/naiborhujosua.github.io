@@ -21,7 +21,7 @@ With over four years of experience in various industries, I have utilized AI cap
 <script src="https://gist.github.com/naiborhujosua/8e4c039e50fddd51ff1a20257469a497.js"></script>
 
 ## Strava status
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/activity-summary/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
+<iframe height='320' width='600' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/activity-summary/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
 
 
 
