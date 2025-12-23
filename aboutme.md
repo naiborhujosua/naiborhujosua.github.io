@@ -20,6 +20,8 @@ With over four years of experience in various industries, I have utilized AI cap
 ## Most Used Languages
 <script src="https://gist.github.com/naiborhujosua/8e4c039e50fddd51ff1a20257469a497.js"></script>
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16595797103" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 
 ## Interesting [arXiv](https://arxiv.org/) paper
  > - Why Should I Trust You?” Explaining the Predictions of Any Classifier
