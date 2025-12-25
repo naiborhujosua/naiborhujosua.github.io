@@ -57,7 +57,7 @@ social-network-links:
   #email: "hi@naiborhujosua.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  #github: naiborhujosua
+  
   #twitter: daattali
   #patreon: naiborhujosua
   #youtube: "@daattali"
@@ -76,6 +76,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
   calendly: "naiborhujosua/60min?month=2024-08"
+  github: naiborhujosua
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
