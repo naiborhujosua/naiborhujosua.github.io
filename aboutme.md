@@ -63,7 +63,7 @@ With over four years of experience in various industries, I have utilized AI cap
             <a href="https://www.goodreads.com/"><img alt="Goodreads: Book reviews, recommendations, and discussion" src="https://s.gr-assets.com/images/layout/goodreads_logo_140.png" /></a>
           </div>
         </div>
-'''
+
 
 
 
