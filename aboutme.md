@@ -18,7 +18,7 @@ With over 5 years of experience in various industries, I have utilized AI capabi
 <script src="https://gist.github.com/naiborhujosua/90f41f0ea66af98a324c803fc3df6d85.js"></script>
 
 ## Latest Runs
-<iframe height='300' width='730' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
+<iframe height='300' width='730' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
 
 
 
