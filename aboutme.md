@@ -14,9 +14,6 @@ With over 5 years of experience in various industries, I have utilized AI capabi
 
 <b><bold>Note.</bold></b> I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
-## Latest Read
-<script src="https://gist.github.com/naiborhujosua/90f41f0ea66af98a324c803fc3df6d85.js"></script>
-
 ## Latest Runs
 <iframe height='300' width='730' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
 
