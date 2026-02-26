@@ -10,7 +10,7 @@ title: About me
 
 <b><bold>Contact.</bold></b> To get in touch with me, you can send an e-mail to <hi@naiborhujosua.com>. I am always happy to share feedback on any technical challenges across the entire Machine Learning lifecycle.
 
-<b><bold>Note.</bold></b> I am neither pursuing employment opportunities nor scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://calendly.com/naiborhujosua/60min?month=2024-05).
+<b><bold>Note.</bold></b> I am not pursuing employment opportunities or scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://calendly.com/naiborhujosua/60min?month=2024-05).
 
 ### Strava Tracker
 <iframe height='300' width='730' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
