@@ -29,8 +29,7 @@ title: About me
 - GeoAI
    
 
-### Strava Tracker
-<iframe height='300' width='730' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
+
 
 
 
