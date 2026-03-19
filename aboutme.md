@@ -12,8 +12,7 @@ title: About me
 
 <b><bold>Note.</bold></b> I am not pursuing employment opportunities or scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://naiborhujosua.com/consulting/).
 
-
-### Content I love sharing:
+<b><bold>Content I love sharing.</bold></b>
 - Statistics
 - Data Visualization
 - Machine Learning for tabular data
