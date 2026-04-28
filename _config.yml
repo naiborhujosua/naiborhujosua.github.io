@@ -20,9 +20,9 @@ author: Josua Naiborhu
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   #Consultation: "https://calendly.com/naiborhujosua/60min?month=2024-05"
-  Consulting: "consulting"
+  #Consulting: "consulting"
   Bookshelves: "bookshelves"
    #Resources:
      #- Bookshelves: "bookshelves"
