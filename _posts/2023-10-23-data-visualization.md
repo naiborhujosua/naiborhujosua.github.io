@@ -4,6 +4,7 @@ title: You can visualize amazing plots using Matplotlib and Seaborn
 subtitle: Visualize a much better plot using Matplotlib and Seaborn
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
+thumbnail-img: /assets/img/bubble.JPG
 share-img: /assets/img/dsthumb.JPG
 tags: [data visualization,matplotlib,seaborn]
 comments: true
