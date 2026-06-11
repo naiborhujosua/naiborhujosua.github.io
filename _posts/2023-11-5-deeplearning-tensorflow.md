@@ -4,6 +4,7 @@ title: You can get better accuracy carrying out transfer learning in your Image 
 subtitle: How can you classify the type of mosquito on the human skin by using Tensorflow?
 gh-repo: naiborhujosua/Blog_Notes
 gh-badge: [star, follow]
+thumbnail-img: /assets/img/conmatrix.JPG
 share-img: /assets/img/deeplearningclass.gif 
 tags: [deep learning,tensorflow,transfer learning]
 comments: true
