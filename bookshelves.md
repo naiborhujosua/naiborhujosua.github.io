@@ -22,6 +22,12 @@ interesting book to read with simple explanation and hands-on experience working
 My go-to resource to reviewing Pytorch from basic to advanced. The author really explains the concept clearly. The visualization along with the hands-on instances helps me get better idea of how Pytorch works under the hood. Note : I also read the first edition of this book and i found the 2nd edition more enlightening with new content tailored to current advances in artificial intelligence.
 <br/><br/>
 
+<a href="https://www.goodreads.com/book/show/213739308-system-design-on-aws" style="float: left; padding-right: 20px"><img border="0" alt="System Design on AWS: Building and Scaling Enterprise Solutions" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719012808l/213739308._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/213739308-system-design-on-aws">System Design on AWS: Building and Scaling Enterprise Solutions</a> by <a href="https://www.goodreads.com/author/show/39695222.Jayanth_Kumar">Jayanth Kumar</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/8041059124">5 of 5 stars</a><br /><br />
+detailed and easy-to-understand way to system design on AWS. One thing i really like about this book is from compute, storage and networking services within AWS, the author makes everyday instances in laying out system design on AWS.
+<br/><br/>
+
+
 
 
 
