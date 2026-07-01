@@ -47,6 +47,12 @@ My rating: <a href="https://www.goodreads.com/review/show/6476819484">5 of 5 sta
 I loved this book so much. I wish I had it when I started over my journey diving into ML. So practical and well written.
 <br/><br/>
 
+<a href="https://www.goodreads.com/book/show/221841319-hands-on-generative-ai-with-transformers-and-diffusion-models" style="float: left; padding-right: 20px"><img border="0" alt="Hands-On Generative AI with Transformers and Diffusion Models" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732338371l/221841319._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/221841319-hands-on-generative-ai-with-transformers-and-diffusion-models">Hands-On Generative AI with Transformers and Diffusion Models</a> by <a href="https://www.goodreads.com/author/show/49934285.Omar_Sanseviero">Omar Sanseviero</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7583867582">5 of 5 stars</a><br /><br />
+This book offers a different level of explanation when it comes to demystifying complex topic. I like how the author breaks down every complex content in a structural way yet easy to follow. Reading technical theory titled Building Large Language model from scratch by Sebastian followed by this book will be a good combination to get the natural feeling of comprehending every narratives the author brings in this book. I really enjoy reading every page of it and It is gonna be my go-to reference for my for future project.
+<br/><br/>
+
+
 
 
 
