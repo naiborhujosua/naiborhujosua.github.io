@@ -26,7 +26,14 @@ title: About me
 - Computer Vision
 - Time Series
 - GeoAI
-   
+
+
+<a href="https://www.goodreads.com/book/show/195683598-time-series-analysis-with-python-cookbook" style="float: left; padding-right: 20px"><img border="0" alt="Time Series Analysis with Python Cookbook: Practical recipes for the complete time series workflow, from modern data engineering to advanced forecasting and anomaly detection" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691137335l/195683598._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/195683598-time-series-analysis-with-python-cookbook">Time Series Analysis with Python Cookbook: Practical recipes for the complete time series workflow, from modern data engineering to advanced forecasting and anomaly detection</a> by <a href="https://www.goodreads.com/author/show/22734359.Tarek_A_Atwan">Tarek A. Atwan</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/6642306786">5 of 5 stars</a><br /><br />
+The thing that I like about this book is how the author provides hands-on examples when laying out every concept. Traditional time-series methodology to modern ones have been clearly explained alongside best practices for improving forecasting evaluation metrics that affect business-decision making process. The other new knowledge that I really like diving deeper into this book is how the time-series split methodology like direct, multi output, and recursive strategy that play vital role in improving evaluation metrics have been laid out clearly. I highly recommend this book for anyone interested in upskilling their forecasting techniques.
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/125884887-josua-naiborhu">View all my reviews</a>
+
 
 
 
