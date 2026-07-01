@@ -10,7 +10,17 @@ The thing that I like about this book is how the author provides hands-on exampl
 My rating: <a href="https://www.goodreads.com/review/show/8287561061">5 of 5 stars</a><br /><br />
 a comprehensive book that explains data analysis from A-Z in an easy way. What really stands out from this book is how the author breaks down every concept along with hands-on approaches(nice visualization) that makes me really enjoy reading chapter by chapter. I would highly recommend this book for making data analysis more effective and structured.
 <br/><br/>
-<a href="https://www.goodreads.com/review/list/125884887-josua-naiborhu">View all my reviews</a>
+
+<a href="https://www.goodreads.com/book/show/54241838-regression-analysis" style="float: left; padding-right: 20px"><img border="0" alt="Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592947273l/54241838._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/54241838-regression-analysis">Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models</a> by <a href="https://www.goodreads.com/author/show/19842429.Jim_Frost">Jim Frost</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/6619415277">5 of 5 stars</a><br /><br />
+best linear regression book that I have ever read. extremely concise book alongside practical lab in plain language. really recommend this amazing book especially the narrative that really helps me clearly comprehend all chapters.
+<br/><br/>
+
+<a href="https://www.goodreads.com/book/show/55513037-introduction-to-statistics" style="float: left; padding-right: 20px"><img border="0" alt="Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601426340l/55513037._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/55513037-introduction-to-statistics">Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries</a> by <a href="https://www.goodreads.com/author/show/19842429.Jim_Frost">Jim Frost</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/6534626642">5 of 5 stars</a><br /><br />
+The way the author explains the statistics in a comprehensive and hands-on way helps me understand the STATISTICS WAY to solve real world problems for non-technical people who do not have statistical knowledge in a really good fashion. I salute to the author for explaining such theories. hidden gems book.
+<br/><br/>
+
 
 <a href="https://www.goodreads.com/book/show/220289352-graph-machine-learning" style="float: left; padding-right: 20px"><img border="0" alt="Graph Machine Learning: Learn about the latest advancements in graph data to build robust machine learning models" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728577134l/220289352._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/220289352-graph-machine-learning">Graph Machine Learning: Learn about the latest advancements in graph data to build robust machine learning models</a> by <a href="https://www.goodreads.com/author/show/21617755.Aldo_Marzullo">Aldo Marzullo</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/7745732228">5 of 5 stars</a><br /><br />
