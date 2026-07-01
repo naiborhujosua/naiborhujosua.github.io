@@ -27,6 +27,26 @@ My rating: <a href="https://www.goodreads.com/review/show/8041059124">5 of 5 sta
 detailed and easy-to-understand way to system design on AWS. One thing i really like about this book is from compute, storage and networking services within AWS, the author makes everyday instances in laying out system design on AWS.
 <br/><br/>
 
+<a href="https://www.goodreads.com/book/show/59696349-build" style="float: left; padding-right: 20px"><img border="0" alt="Build: An Unorthodox Guide to Making Things Worth Making" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652120231l/59696349._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/59696349-build">Build: An Unorthodox Guide to Making Things Worth Making</a> by <a href="https://www.goodreads.com/author/show/22022185.Tony_Fadell">Tony Fadell</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7427189930">5 of 5 stars</a><br /><br />
+I am impressed by how Tony Fadell tells his journey from working in big tech to even building his company along the way to where he is right now. I am not like reading a book through this book. I am directly like following his story to see ups and downs of his journey and I also see some fascinating story when google acquired his company Nest where he kept emphasizing the culture of the company about the culture of big tech where offices with free snacks and lots of food and he changed it to something extraordinary on behalf of nes employee family and next generation of NES employees. What a story! Thank you for writing this beautiful story. I learn a lot in this book.
+<br/><br/>
+
+<a href="https://www.goodreads.com/book/show/221737978-think-stats" style="float: left; padding-right: 20px"><img border="0" alt="Think Stats: Exploratory Data Analysis" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1732393076l/221737978._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/221737978-think-stats">Think Stats: Exploratory Data Analysis</a> by <a href="https://www.goodreads.com/author/show/7256816.Allen_Downey">Allen Downey</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/8256708257">5 of 5 stars</a><br /><br />
+This book explains how EDA should be approached from statistical perspective. I really enjoy reading this book and it helps me dive deeper into analyzing data better. What really stands out is its hands-on examples that effectively demystify every concept.
+<br/><br/>
+
+<a href="https://www.goodreads.com/book/show/140399013-causal-inference-in-python" style="float: left; padding-right: 20px"><img border="0" alt="Causal Inference in Python: Applying Causal Inference in the Tech Industry" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688421234l/140399013._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/140399013-causal-inference-in-python">Causal Inference in Python: Applying Causal Inference in the Tech Industry</a> by <a href="https://www.goodreads.com/author/show/21779323.Matheus_Facure">Matheus Facure</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/6516505237">5 of 5 stars</a><br /><br />
+reading the first chapter alongside simple instances of causal inference use cases genuinely helps me comprehend it in an intuitive way. The author really knows how to explain it better. It's going to be my go-to resource when it comes to explaining the impact of predictions I would like to present for my clients. i could say this is the book you need to comprehend causal inference in a industry-based perspective. Kudos to the author!
+<br/><br/>
+
+<a href="https://www.goodreads.com/book/show/193364850-data-centric-machine-learning-with-python" style="float: left; padding-right: 20px"><img border="0" alt="Data-Centric Machine Learning with Python: The ultimate guide to engineering and deploying high-quality models based on good data" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689714962l/193364850._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/193364850-data-centric-machine-learning-with-python">Data-Centric Machine Learning with Python: The ultimate guide to engineering and deploying high-quality models based on good data</a> by <a href="https://www.goodreads.com/author/show/21608838.Jonas_Christensen">Jonas Christensen</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/6476819484">5 of 5 stars</a><br /><br />
+I loved this book so much. I wish I had it when I started over my journey diving into ML. So practical and well written.
+<br/><br/>
+
 
 
 
