@@ -16,6 +16,11 @@ My rating: <a href="https://www.goodreads.com/review/show/6619415277">5 of 5 sta
 best linear regression book that I have ever read. extremely concise book alongside practical lab in plain language. really recommend this amazing book especially the narrative that really helps me clearly comprehend all chapters.
 <br/><br/>
 
+<a href="https://www.goodreads.com/book/show/219199634-writing-for-developers" style="float: left; padding-right: 20px"><img border="0" alt="Writing for Developers: Blogs that get read" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733062594l/219199634._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/219199634-writing-for-developers">Writing for Developers: Blogs that get read</a> by <a href="https://www.goodreads.com/author/show/40505152.Piotr_Sarna">Piotr Sarna</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7923864365">5 of 5 stars</a><br /><br />
+interesting book to help me write better as developer. This book covers personal perspective to AI-based one in terms of writing better blogpost. This book is gonna be my go-to reference for prioritizing essential points needed in my future blogpost.
+<br/><br/>
+
 <a href="https://www.goodreads.com/book/show/55513037-introduction-to-statistics" style="float: left; padding-right: 20px"><img border="0" alt="Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601426340l/55513037._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/55513037-introduction-to-statistics">Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries</a> by <a href="https://www.goodreads.com/author/show/19842429.Jim_Frost">Jim Frost</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/6534626642">5 of 5 stars</a><br /><br />
 The way the author explains the statistics in a comprehensive and hands-on way helps me understand the STATISTICS WAY to solve real world problems for non-technical people who do not have statistical knowledge in a really good fashion. I salute to the author for explaining such theories. hidden gems book.
