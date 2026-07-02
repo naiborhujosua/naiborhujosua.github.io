@@ -11,6 +11,11 @@ My rating: <a href="https://www.goodreads.com/review/show/8287561061">5 of 5 sta
 a comprehensive book that explains data analysis from A-Z in an easy way. What really stands out from this book is how the author breaks down every concept along with hands-on approaches(nice visualization) that makes me really enjoy reading chapter by chapter. I would highly recommend this book for making data analysis more effective and structured.
 <br/><br/>
 
+<a href="https://www.goodreads.com/book/show/239293054-domain-specific-small-language-models" style="float: left; padding-right: 20px"><img border="0" alt="Domain-Specific Small Language Models: Efficient AI for local deployment" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753467466l/239293054._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/239293054-domain-specific-small-language-models">Domain-Specific Small Language Models: Efficient AI for local deployment</a> by <a href="https://www.goodreads.com/author/show/18995157.Guglielmo_Iozzia">Guglielmo Iozzia</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/8114809866">5 of 5 stars</a><br /><br />
+great read in understanding small language model for limited computing power and resources.
+<br/><br/>
+
 <a href="https://www.goodreads.com/book/show/54241838-regression-analysis" style="float: left; padding-right: 20px"><img border="0" alt="Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592947273l/54241838._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/54241838-regression-analysis">Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models</a> by <a href="https://www.goodreads.com/author/show/19842429.Jim_Frost">Jim Frost</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/6619415277">5 of 5 stars</a><br /><br />
 best linear regression book that I have ever read. extremely concise book alongside practical lab in plain language. really recommend this amazing book especially the narrative that really helps me clearly comprehend all chapters.
