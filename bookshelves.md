@@ -17,6 +17,12 @@ My rating: <a href="https://www.goodreads.com/review/show/8287561061">5 of 5 sta
 a comprehensive book that explains data analysis from A-Z in an easy way. What really stands out from this book is how the author breaks down every concept along with hands-on approaches(nice visualization) that makes me really enjoy reading chapter by chapter. I would highly recommend this book for making data analysis more effective and structured.
 <br/><br/>
 
+<a href="https://www.goodreads.com/book/show/250253546-an-illustrated-guide-to-ai-agents" style="float: left; padding-right: 20px"><img border="0" alt="An Illustrated Guide to AI Agents: Concepts and Code for Building Agents with LLMs, Tools, and Memory" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774608555l/250253546._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/250253546-an-illustrated-guide-to-ai-agents">An Illustrated Guide to AI Agents: Concepts and Code for Building Agents with LLMs, Tools, and Memory</a> by <a href="https://www.goodreads.com/author/show/51962915.Maarten_Grootendorst">Maarten Grootendorst</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/8692745722">5 of 5 stars</a><br /><br />
+comprehensive guidance of building ai agents with practical implementation using python. A great read for comprehending how agents with augmented LLM, tools and memory help achieve the success of created ai agents. I am impressed by how the content structured from the ground up to easily consumed by anyone who has knowledge in python and basic llm.
+<br/><br/>
+
+
 <a href="https://www.goodreads.com/book/show/239293054-domain-specific-small-language-models" style="float: left; padding-right: 20px"><img border="0" alt="Domain-Specific Small Language Models: Efficient AI for local deployment" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753467466l/239293054._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/239293054-domain-specific-small-language-models">Domain-Specific Small Language Models: Efficient AI for local deployment</a> by <a href="https://www.goodreads.com/author/show/18995157.Guglielmo_Iozzia">Guglielmo Iozzia</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/8114809866">5 of 5 stars</a><br /><br />
 great read in understanding small language model for limited computing power and resources.
