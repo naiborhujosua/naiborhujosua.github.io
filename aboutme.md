@@ -12,20 +12,6 @@ title: About me
 
 <b><bold>Note.</bold></b> I am not pursuing employment opportunities or scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://naiborhujosua.com/consulting/).
 
-<p><b><bold>Content I love sharing.</bold></b></p>
-- Statistics
-- Data Visualization
-- Machine Learning for tabular data
-- Causal inference & Causal Discovery
-- LLM in Production
-- Software Engineering for Machine Learning Engineer
-- Hackathon for living
-- Reinforcement Learning
-- Graph Machine Learning
-- Responsible AI
-- Computer Vision
-- Time Series
-- GeoAI
 
 <p><b><bold>Latest Runs.</bold></b></p>
 <iframe height='454' width='380' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe>
