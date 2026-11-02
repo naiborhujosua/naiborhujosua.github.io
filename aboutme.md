@@ -14,7 +14,7 @@ title: About me
 
 <b><bold>Github Activity.</bold></b>
 
-<!-- Poper Code Start - poper.ai -->
+<!-- Poper Code Start - poper.ai  height='454' width='380'-->
 <script 
   id="poper-js-script" 
   data-account-id="472655fd92381a6f4f4d181329194eea" 
@@ -37,4 +37,4 @@ title: About me
 
 
 <b><bold>Latest Runs.</bold></b>
-<iframe height='454' width='380' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe> 
+<iframe height='454' width='800' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe> 
