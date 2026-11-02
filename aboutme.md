@@ -12,9 +12,6 @@ title: About me
 
 <b><bold>Note.</bold></b> I am not pursuing employment opportunities or scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://naiborhujosua.com/consulting/).
 
-
-<!--<b><bold>Latest Runs.</bold></b>
-<iframe height='454' width='380' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe> -->
 <b><bold>Github Activity.</bold></b>
 
 <!-- Poper Code Start - poper.ai -->
@@ -36,3 +33,7 @@ title: About me
 <!-- Poper Code End -->
 
 <div class="poper-13981"></div>
+
+
+<bold>Latest Runs.</bold></b>
+<iframe height='454' width='380' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe> 
