@@ -16,6 +16,12 @@ My rating: <a href="https://www.goodreads.com/review/show/7666673474">4 of 5 sta
 step-by-step explanation on this book really helps me comprehend how full stack react project constructed. having understood basics react first before reading this book is a must(React key concept by Maximilian Schwarzmüller is recommended). i really enjoy reading it and the code repository is so helpful for comprehending terms on the book.
 <br/><br/>
 
+<a href="https://www.goodreads.com/book/show/236674245-learn-react-with-typescript" style="float: left; padding-right: 20px"><img border="0" alt="Learn React with TypeScript: A beginner's guide to building real-world, production-ready web apps with React 19 and TypeScript" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750163836l/236674245._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/236674245-learn-react-with-typescript">Learn React with TypeScript: A beginner's guide to building real-world, production-ready web apps with React 19 and TypeScript</a> by <a href="https://www.goodreads.com/author/show/18708498.Carl_Rippon">Carl Rippon</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/9059086007">5 of 5 stars</a><br /><br />
+An easy, beginner guide to mastering React with TypeScript. It's the perfect quick-reference book to instantly refresh your memory on essential React terms and methods.
+<br/><br/>
+
+
 <a href="https://www.goodreads.com/book/show/233222634-learn-react-hooks" style="float: left; padding-right: 20px"><img border="0" alt="Learn React Hooks: Unlock scalable state, performance, and clean code with Hooks, Context, Suspense, and Form Actions" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746630116l/233222634._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/233222634-learn-react-hooks">Learn React Hooks: Unlock scalable state, performance, and clean code with Hooks, Context, Suspense, and Form Actions</a> by <a href="https://www.goodreads.com/author/show/17171136.Daniel_Bugl">Daniel Bugl</a><br/>
 My rating: <a href="https://www.goodreads.com/review/show/9042020674">5 of 5 stars</a><br /><br />
 All things about react hooks that have been clearly explained on this book. Practical use cases approach on explaining the content makes me really enjoy reading it. Gonna be my go-to resource for future projects.
