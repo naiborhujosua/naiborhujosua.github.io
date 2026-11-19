@@ -12,7 +12,7 @@ title: About me
 
 <b><bold>Note.</bold></b> I am not pursuing employment opportunities or scholarships. Any organization or company that would like to consult or discuss machine learning/deep learning-based solutions that further streamline business processes and workflows can schedule my time by [booking a personalized consulting session](https://naiborhujosua.com/consulting/).
 
-<b><bold>Github Activity.</bold></b>
+<!--<b><bold>Github Activity.</bold></b> -->
 
 <!-- Poper Code Start - poper.ai  height='454' width='380'-->
 <!--<script 
