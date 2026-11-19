@@ -15,7 +15,7 @@ title: About me
 <b><bold>Github Activity.</bold></b>
 
 <!-- Poper Code Start - poper.ai  height='454' width='380'-->
-<script 
+<!--<script 
   id="poper-js-script" 
   data-account-id="472655fd92381a6f4f4d181329194eea" 
     data-domain="naiborhujosua.com"
@@ -32,9 +32,9 @@ title: About me
 </script>
 <!-- Poper Code End -->
 
-<div class="poper-13981"></div>
+<!--<div class="poper-13981"></div>  -->
 
 
 
-<!-- <b><bold>Latest Runs.</bold></b>
+<b><bold>Latest Runs.</bold></b>
 <iframe height='454' width='720' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/33763663/latest-rides/f41a50bb586c5e33eb2d56d8212421c1f7d691e5'></iframe> -->
